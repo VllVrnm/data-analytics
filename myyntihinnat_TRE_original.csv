@@ -1,0 +1,1145 @@
+,Kaupunginosa,Huoneisto,TaloTyyppi,m2,Vh(€),Neliöhinta(€),Rakennusvuosi,Kerros,Hissi,Kunto,Tontti,Energialuokka
+0,Lentävänniemi,"1h, kk",kt,36.5,83800,2296,1972,5/8,on,tyyd.,oma,C2018
+1,Keskusta,"1h, kt",kt,35.0,192000,5486,2024,7/7,on,hyvä,oma,F2013
+2,Peltolammi,"1h, k, alk, kph...",kt,36.0,78000,2167,1971,4/7,on,tyyd.,vuokra,F2013
+3,Niemenranta,1h + kt+ alk,kt,36.0,109000,3028,2017,2/4,on,hyvä,vuokra,C2013
+4,Kaleva,"1h,kk,kph",kt,21.0,90000,4286,1942,4/4,ei,,oma,F2013
+5,Armonkallio,1h+alkovi+kk+kp...,kt,29.0,110000,3793,1960,2/3,ei,,oma,D2018
+6,Polso,"1h, kk",kt,26.5,20000,755,1975,1/2,ei,tyyd.,vuokra,D2018
+7,Tahmela,1h+kk (YJ:n muk...,rt,21.0,65500,3119,1930,1/2,ei,tyyd.,oma,D2018
+8,Hakametsä,1h + kk + vh,kt,36.0,100571,2794,1970,3/3,ei,tyyd.,oma,D2018
+9,Ratinanranta,1h+kk+kph+lasit...,kt,38.0,194000,5105,2011,4/5,on,hyvä,oma,E2018
+10,Kaleva,"1h, kk, kph",kt,36.0,137000,3806,1960,1/6,on,hyvä,vuokra,G2013
+11,Hervanta,1h+kk,kt,29.5,76000,2576,1977,4/8,on,tyyd.,oma,D2018
+12,Tammela,"1h,avok,kph",kt,26.5,112000,4226,1975,2/7,on,hyvä,oma,F2013
+13,Hervanta,"1h, kph, las. p...",kt,26.0,108500,4173,2019,5/8,on,,vuokra,C2013
+14,Kissanmaa,tupakeittiö...,kt,30.0,70000,2333,1958,1/3,ei,,vuokra,D2018
+15,Annala,1h+kt+parveke,kt,20.5,90000,4390,2021,4/5,on,hyvä,vuokra,B2018
+16,Kaleva,"1h, kk, vth, kph",kt,29.2,132000,4521,1958,7/7,on,tyyd.,vuokra,C2007
+17,Hervanta,1h+kk,kt,32.0,84000,2625,1974,2/7,on,hyvä,oma,F2013
+18,Kaleva,1h+kk,kt,35.5,96000,2704,1963,3/3,on,tyyd.,vuokra,F2013
+19,Armonkallio,1h+kk+kh+p,kt,24.0,110000,4583,1962,1/4,ei,hyvä,oma,
+20,Tammela,"1h,kk",kt,25.0,125000,5000,1957,2/6,on,hyvä,oma,D2018
+21,Hervantajärvi,"1h, kt, parveke",kt,27.0,110028,4075,2023,2/5,on,,vuokra,B2018
+22,Pispala,"1h, k, wc, p",kt,33.0,119000,3606,1955,2/3,ei,hyvä,oma,E2018
+23,Härmälä,"1h,k,kph",kt,39.0,69000,1769,1937,2/2,ei,,vuokra,D2018
+24,Rantaperkiö,"1h, kk, kph/wc",kt,23.0,74900,3257,1945,1/3,ei,tyyd.,oma,D2018
+25,Tammela,"1h, alkovi, kk,...",kt,31.0,110000,3548,1972,4/6,on,tyyd.,oma,F2013
+26,Hervanta,"1h,kk,p",kt,35.0,65000,1857,1979,5/5,on,,oma,D2018
+27,Linnainmaa,"1h,kk,kph/wc,s,...",kt,31.0,98300,3171,1989,1/5,on,,oma,F2013
+28,Härmälänranta,1h + kt + vh + alk,kt,36.5,161900,4436,2017,6/6,on,hyvä,,C2013
+29,Niemenranta,"1h, kt, alk",kt,25.0,110050,4402,2019,6/7,on,,,C2013
+30,Hervanta,"1h,+k",kt,31.5,59000,1873,1976,3/7,on,huono,oma,D2018
+31,Amuri,1+kk+kph,kt,33.0,135000,4091,1968,8/9,on,hyvä,oma,D2018
+32,Keskusta,1h+kk+kph,kt,34.0,180000,5294,2008,1/5,on,,oma,F2013
+33,Keskusta,"1 h, kk, alkovi...",kt,30.0,135000,4500,1969,6/6,on,tyyd.,oma,F2013
+34,Keskusta,"1h, kk",kt,35.0,139000,3971,1951,3/5,on,tyyd.,oma,F2018
+35,Härmälänranta,"1h, kt, alk.",kt,36.5,155000,4247,2017,6/6,on,hyvä,vuokra,C2013
+36,Härmälä,"1h,kt,p",kt,41.0,164000,4000,2015,1/5,on,hyvä,,C2018
+37,Kaleva,1h+kk+kh,kt,28.0,128000,4571,1954,2/4,ei,hyvä,vuokra,C2018
+38,Ylä-pispala,"1h, kk, s, p,va...",kt,31.0,143000,4613,1997,1/2,ei,,oma,
+39,Kaakinmaa,1h+k,kt,31.0,122000,3935,1969,4/7,on,,oma,D2018
+40,Peltolammi,"1h,k",kt,33.0,80300,2433,1967,1/7,on,hyvä,vuokra,C2018
+41,Annala,oh+tk+s,kt,40.0,82000,2050,1993,3/4,on,,oma,F2018
+42,Tammela,1h+kk+kph,kt,34.0,110000,3235,1972,,on,tyyd.,oma,F2018
+43,Tammela,"1h, kk, kph",kt,21.0,113000,5381,1941,6/6,on,,vuokra,E2018
+44,Viinikka,1h+k+kph/wc,kt,33.0,75000,2273,1950,1/2,ei,,vuokra,
+45,Tesoma,"1 h,k,kph",kt,33.0,56000,1697,1970,2/3,ei,,vuokra,G2018
+46,Hervanta,1h+alkovi+kk+kp...,kt,31.5,55000,1746,1974,1/8,on,huono,oma,E2018
+47,Keskusta,"1h, kk, s, kph,...",kt,42.0,175000,4167,1998,7/8,on,,oma,E2013
+48,Kaleva,"1h,k",kt,48.0,112500,2344,1951,2/9,on,,vuokra,F2013
+49,Ratinanranta,1h+kt+kph+lasit...,kt,38.0,199000,5237,2011,3/5,on,hyvä,oma,E2018
+50,Vuores,"1h, alk, kt, la...",kt,32.5,116000,3569,2018,1/6,on,hyvä,vuokra,C2013
+51,Niemenranta,"1h, kt, alk",kt,25.0,102000,4080,2019,4/7,on,,,C2013
+52,Nekala,"1h, k, kph",kt,39.0,65000,1667,1945,1/2,ei,hyvä,vuokra,D2007
+53,Janka,"1h,tupak,s",kt,42.0,105000,2500,2004,4/4,on,hyvä,vuokra,E2018
+54,Hervanta,"1h, kt, kph, al...",kt,31.0,130877,4222,2022,3/5,on,hyvä,vuokra,B2018
+55,Hervanta,"1h, kt, kph, al...",kt,31.0,136533,4404,2022,4/5,on,hyvä,vuokra,B2018
+56,Järvensivu,1h+k,kt,30.0,60000,2000,1960,2/2,ei,tyyd.,vuokra,E2013
+57,Kalkunvuori,1h+tup+s,kt,38.0,115000,3026,2008,1/2,ei,,vuokra,F2013
+58,Amuri,1h+kk+alkovi+kh,kt,30.0,107000,3567,1937,2/6,on,,oma,D2018
+59,Lielahti,1h + tupak + s,kt,42.0,120000,2857,1993,1/2,ei,,oma,
+60,Tammela,1h+kk+kph,kt,27.0,120000,4444,1954,3/7,on,hyvä,vuokra,F2013
+61,Tammela,"1h, k",kt,35.5,135000,3803,1932,1/4,ei,hyvä,oma,G2013
+62,Hervanta,"1h, kk",kt,34.0,58000,1706,1977,2/5,on,,oma,F2013
+63,Kaleva,1h+avok+alk+p,kt,37.5,142500,3800,2012,5/6,on,hyvä,vuokra,D2013
+64,Annala,"1h, kk, kph, la...",kt,31.5,60000,1905,1980,4/7,on,tyyd.,oma,F2013
+65,Hervantajärvi,Tolppa,kt,14.0,5040,360,2024,1/1,on,hyvä,vuokra,A2018
+66,Hervantajärvi,"1h, kt, alkovi,...",kt,29.0,131900,4548,2024,3/4,on,hyvä,vuokra,A2018
+67,Linnainmaa,"1h, alkovi, kk,...",kt,35.5,98000,2761,2000,4/4,on,tyyd.,vuokra,F2013
+68,Tammela,1h+kk,kt,35.0,114000,3257,1973,2/7,on,hyvä,oma,G2013
+69,Nekala,"1h, k, kph",kt,39.0,64000,1641,1945,2/2,ei,,vuokra,D2018
+70,Amuri,empty,kt,18.0,25000,1389,1981,1/1,ei,hyvä,oma,E2013
+71,Ratina,"1h, alkovi, kt,...",kt,38.5,203000,5273,2011,4/5,on,hyvä,oma,E2013
+72,Viinikka,"1h,k,kph/wc,et,...",kt,43.0,105000,2442,1920,1/2,ei,hyvä,vuokra,G2013
+73,Multisilta,1h+kt+kph+et+pa...,kt,23.0,104200,4530,2020,8/8,on,hyvä,vuokra,B2018
+74,Multisilta,"1h, kt, parvi",kt,23.0,106000,4609,2019,8/8,on,,vuokra,B2018
+75,Lamminpää,"1h, kt",kt,26.0,125000,4808,2024,5/5,on,hyvä,oma,A2018
+76,Rahola,"1h,kk,kph/wc, l...",kt,35.0,88200,2520,2012,2/5,on,,vuokra,D2013
+77,Tammela,"1h,kk",kt,32.0,133500,4172,1979,2/6,on,,oma,F2013
+78,Ranta-tampella,"1h, keittiö...",kt,27.0,179000,6630,2020,4/9,on,,oma,B2018
+79,Hervanta,"1h, kk, kph, vh",kt,29.0,85000,2931,1976,3/8,on,hyvä,oma,C2018
+80,Kaleva,1h+kk,kt,28.0,135687,4846,1954,3/4,ei,hyvä,vuokra,C2018
+81,Hämeenpuisto,1h + kk + kph +...,kt,29.0,133500,4603,1966,2/8,on,hyvä,oma,D2018
+82,Amuri,"1h,tupak,ph",kt,20.5,118000,5756,1939,4/7,on,hyvä,vuokra,E2018
+83,Linnainmaa,1h+kk+s+parveke,kt,30.0,83300,2777,1990,2/3,ei,,oma,E2013
+84,Tammela,1h+k,kt,28.0,156000,5571,2023,2/8,on,hyvä,vuokra,B
+85,Härmälänranta,1h+kt+alk,kt,36.5,154400,4230,2018,3/6,on,hyvä,,C2013
+86,Niemenranta,"1 h, kt, p",kt,29.0,139000,4793,2014,8/8,on,hyvä,oma,B2018
+87,Hervantajärvi,"1h, kt, p",kt,21.0,117000,5571,2023,3/5,on,hyvä,vuokra,B2018
+88,Rahola,1h+kt+lasit.p,kt,31.5,99000,3143,2014,4/5,on,hyvä,vuokra,B2018
+89,Härmälä,"1h, k",kt,41.5,76000,1831,1936,2/2,ei,hyvä,vuokra,F2013
+90,Hervantajärvi,"1h, kt, kph, vh...",kt,30.0,130000,4333,2024,3/4,on,hyvä,vuokra,A2018
+91,Keskusta,1H+kk+kh+s+p,kt,35.5,179000,5042,1980,4/8,on,tyyd.,oma,C2018
+92,Kaleva,"1h, kk, kph/wc",kt,22.0,113000,5136,1952,2/6,on,hyvä,oma,D2018
+93,Huikas,1h + kk,kt,26.0,80000,3077,1960,2/2,ei,tyyd.,vuokra,
+94,Nekala,"1h, kph, k",kt,39.0,70000,1795,1945,1/2,ei,hyvä,vuokra,
+95,Armonkallio,1h+kk,kt,21.8,80000,3670,1928,2/5,ei,tyyd.,vuokra,F
+96,Keskusta,"1h, kk, kph",kt,24.0,118500,4938,1962,3/6,on,tyyd.,oma,E2013
+97,Kiveliö,Putkirempattu 1h+k,kt,35.0,47000,1343,1939,1/2,ei,tyyd.,oma,G2013
+98,Tammela,"1h, kk, kph, vh...",kt,35.0,115000,3286,1973,4/7,on,tyyd.,oma,G2013
+99,Tammela,"1h, kk",kt,25.5,122000,4784,1958,6/7,on,hyvä,oma,E2007
+100,Hervantajärvi,katos,kt,12.5,8500,680,2024,1/1,on,hyvä,vuokra,A2018
+101,Kaleva,"1h, kk",kt,35.5,135000,3803,1954,6/6,on,hyvä,vuokra,E2018
+102,Hervanta,"tk, alk, kph/wc...",kt,36.0,110000,3056,2004,5/5,on,hyvä,vuokra,F2013
+103,Kaleva,1h+kk+kph+alkov...,kt,31.0,134000,4323,1966,3/7,on,,vuokra,C2018
+104,Annala,1h+kk+kph+p,kt,34.0,83500,2456,1981,2/3,ei,hyvä,oma,F2013
+105,Janka,1h+kk+kph+sauna...,kt,34.0,119000,3500,1991,1/4,on,,vuokra,F2013
+106,Kaleva,1h+kt+lasit.p,kt,25.0,145000,5800,2018,6/6,on,,vuokra,C2013
+107,Kaleva,"1h, k, wc/kph",kt,31.3,129000,4121,1955,2/4,ei,hyvä,vuokra,F2013
+108,Ratina,1h+kt,kt,36.0,182000,5056,2013,2/9,on,hyvä,,C2018
+109,Armonkallio,"1h, k",kt,29.0,125000,4310,1998,2/3,on,hyvä,vuokra,
+110,Hervantajärvi,"1h, kt, p",kt,27.0,127520,4723,2023,4/5,on,hyvä,vuokra,B2018
+111,Hervantajärvi,"1h, kt, parveke",kt,27.0,139800,5178,2023,5/5,on,hyvä,vuokra,B2018
+112,Keskusta,"1h, k",kt,43.0,132611,3084,1913,2/2,ei,,oma,G2013
+113,Kaleva,1h+kt+p,kt,25.0,146750,5870,2018,2/6,on,hyvä,vuokra,C2013
+114,Pohtola,"1h, kk, kph, s,...",kt,35.0,109000,3114,1990,1/2,ei,hyvä,oma,F2013
+115,Lentävänniemi,"1-2h, kk",kt,38.0,85200,2242,1977,3/6,on,hyvä,oma,C2013
+116,Kaleva,"1h,kk,kph",kt,32.0,109000,3406,1960,5/8,on,,vuokra,F2013
+117,Armonkallio,"1 h, kk, kph/ wc",kt,24.0,104000,4333,1969,2/3,ei,tyyd.,oma,F2013
+118,Ratinanranta,"1 h, makuualkov...",kt,38.5,194500,5052,2011,2/5,on,hyvä,oma,E2013
+119,Kaleva,"1h, k, kph, et",kt,31.5,130000,4127,1955,1/4,ei,hyvä,vuokra,F2013
+120,Hervantajärvi,"1h, k, las.parv.",kt,27.0,127500,4722,2023,4/7,on,hyvä,vuokra,B2018
+121,Pyynikki,1+k+kph,kt,44.0,195000,4432,1928,4/5,on,hyvä,vuokra,D2018
+122,Ranta-tampella,"1h, kt, kph, vh...",kt,32.5,205000,6308,2022,2/8,on,hyvä,oma,B
+123,Tammela,"1 h, kk, kph, p",kt,32.5,117000,3600,1980,4/6,on,tyyd.,oma,E2013
+124,Kaleva,"1h, k, kph/wc",kt,35.6,120620,3388,1958,1/6,on,tyyd.,vuokra,D2018
+125,Kaleva,"1h,alk,k",kt,34.0,133000,3912,1953,3/6,on,,vuokra,C2018
+126,Petsamo,"1h, k, kph",kt,42.0,134000,3190,1928,3/3,ei,hyvä,vuokra,E2007
+127,Hervanta,"1h, kt, kph, ra...",kt,29.0,131638,4539,2022,5/5,on,hyvä,vuokra,B2018
+128,Tammela,1h+kk+kph+p,kt,28.0,115000,4107,1970,7/7,on,tyyd.,oma,C2018
+129,Hervantajärvi,"1h, kt, parveke",kt,27.0,130700,4841,2023,5/5,on,hyvä,vuokra,B2018
+130,Amuri,1h+kk+kph/WC,kt,29.0,134000,4621,1964,6/10,on,tyyd.,oma,B2018
+131,Koivistonkylä,"1h, k, parvi, I...",kt,30.5,150000,4918,2021,2/2,ei,hyvä,,A2018
+132,Vuores,1h+kt+ransk.parv.,kt,22.5,85000,3778,2023,4/4,on,hyvä,vuokra,
+133,Armonkallio,1H+TK,kt,29.5,210000,7119,2016,5/8,on,hyvä,oma,C2013
+134,Hervantajärvi,"1h, kt, parveke",kt,27.0,122500,4537,2023,4/5,on,hyvä,vuokra,B2018
+135,Lentävänniemi,"1h,kk",kt,30.0,86000,2867,1978,1/3,ei,,vuokra,D2018
+136,Härmälänranta,tupak+1h+s,kt,44.0,180000,4091,2015,3/5,on,,oma,B2018
+137,Kaleva,"1h, kk",kt,28.0,88650,3166,1958,4/7,on,hyvä,vuokra,G2013
+138,Kaleva,1h+kt+kph+lasit.p.,kt,27.0,179000,6630,2023,2/7,on,hyvä,vuokra,A2018
+139,Nekala,"1h, k, kph/wc",kt,25.0,51000,2040,1937,2/2,ei,hyvä,vuokra,
+140,Hervanta,1h+kk+kph+lasit...,kt,30.0,83000,2767,1980,2/6,on,hyvä,oma,E2013
+141,Tammela,"1h, kk, kph/wc, vh",kt,32.5,153000,4708,1970,7/7,on,hyvä,oma,F2018
+142,Tammela,"1h, kk",kt,32.0,140500,4391,1979,3/6,on,hyvä,oma,F2013
+143,Vuores,1h+kk+kph+lasit...,kt,23.0,86000,3739,2016,4/5,ei,,vuokra,C2013
+144,Härmälä,"1h, kk",kt,28.0,76500,2732,1969,2/3,ei,hyvä,vuokra,F2013
+145,Pyynikki,"1h, kk",kt,26.0,124000,4769,1940,2/3,ei,,oma,E2013
+146,Haukiluoma,"1h, kt, kph, la...",kt,34.5,119000,3449,2020,3/5,on,hyvä,,B2018
+147,Keskusta,1h+kk+kh,kt,24.0,132000,5500,1962,4/6,on,hyvä,oma,E2013
+148,Vuores,1h+kt+kph+ransk.p.,kt,27.0,92000,3407,2020,3/4,on,hyvä,vuokra,B2018
+149,Niemenranta,1h+kt,kt,24.0,122500,5104,2017,6/7,on,hyvä,,C2013
+150,Keskusta,1H+KK+KH,kt,28.5,128800,4519,1962,3/6,on,tyyd.,oma,E2013
+151,Kaleva,"1h, k",kt,30.0,88000,2933,1963,1/6,on,,vuokra,F2013
+152,Hämeenpuisto,"1h,avok,kph,s",kt,32.0,135000,4219,1908,2/3,ei,hyvä,oma,G2013
+153,Hervanta,1h+k+kph+parv.,kt,27.0,95000,3519,2004,4/4,on,hyvä,vuokra,F2013
+154,Hämeenpuisto,1h+mk+kk,kt,14.2,81000,5704,1938,5/8,on,hyvä,oma,E2013
+155,Kaukajärvi,1h+kk+kph+lasit...,kt,29.0,76500,2638,1965,2/3,ei,,oma,F2013
+156,Kaleva,"1h,k",kt,36.0,117000,3250,1960,3/6,on,,vuokra,G2013
+157,Epilä,"1h, kt, alkovi,...",kt,25.0,92000,3680,2005,3/4,on,hyvä,oma,C2018
+158,Tammela,"1h, kt, p",kt,27.0,165000,6111,2024,2/7,on,,vuokra,B2018
+159,Härmälänranta,1h+kt,kt,35.5,154000,4338,2017,5/5,on,hyvä,,C2013
+160,Keskusta,1 asuinh.+kk,kt,24.0,124000,5167,1927,1/2,ei,tyyd.,oma,
+161,Härmälä,"1h, k",kt,36.0,72500,2014,1938,2/2,ei,hyvä,vuokra,F2013
+162,Pyynikki,1h+alkovi+kk+kp...,kt,35.0,170000,4857,1973,1/3,on,hyvä,vuokra,F2013
+163,Rantaperkiö,1h+kk+kph,kt,36.0,90000,2500,1960,1/6,on,tyyd.,vuokra,F2013
+164,Keskusta,1h+tk+s,kt,42.0,180000,4286,1997,4/8,on,,oma,
+165,Keskusta,"1h,kt,vh,kph,pa...",kt,35.0,114000,3257,1958,6/6,on,,oma,D2018
+166,Hämeenpuisto,Tupak+kh+rp,kt,29.0,180000,6207,1956,5/5,on,hyvä,vuokra,F2013
+167,Hämeenpuisto,Tupak+kh+rp,kt,29.0,180000,6207,1956,5/5,on,hyvä,oma,F2013
+168,Armonkallio,"1h,kk",kt,30.0,120000,4000,1976,2/3,ei,,oma,
+169,Kaleva,tupak+alk+p,kt,37.5,137000,3653,2012,1/6,on,hyvä,vuokra,D2013
+170,Keskusta,"1 h, kk, kph",kt,31.5,125000,3968,1965,4/6,on,tyyd.,oma,F2013
+171,Lamminpää,1h+k,kt,36.0,65000,1806,1949,1/2,ei,hyvä,oma,
+172,Lielahti,"1h,kt",kt,24.0,118000,4917,2019,4/8,on,hyvä,oma,B2018
+173,Vuores,1h+kt+kph+iso p...,kt,24.0,88000,3667,2016,5/5,on,hyvä,vuokra,C2013
+174,Kaleva,"1h, k",kt,37.0,122000,3297,1951,1/4,ei,tyyd.,vuokra,D2013
+175,Annala,1h+kt+parvi+las...,kt,21.0,116800,5562,2021,5/5,on,hyvä,vuokra,B2018
+176,Tasanne,"2h, k, kph, s, ...",rt,61.0,130000,2131,1986,1/1,ei,hyvä,oma,
+177,Tammela,"2-3h, k, kph, s...",kt,65.5,160000,2443,1980,2/6,on,tyyd.,oma,
+178,Tesoma,2 h + k + vh + ...,kt,55.5,71000,1279,1969,5/7,on,tyyd.,vuokra,D2018
+179,Peltolammi,2h+k+kh+parv. (...,kt,56.5,71000,1257,1972,1/7,on,huono,vuokra,F2013
+180,Armonkallio,"2h, k, kph, s, ...",kt,47.0,175000,3723,1988,3/5,on,,oma,F2013
+181,Lielahti,"2h, kt, kph, las.p",kt,52.0,232500,4471,2019,7/8,on,hyvä,oma,B2018
+182,Tammela,"2h, k, s, psh/w...",kt,56.0,269000,4804,2006,3/4,on,hyvä,oma,D2018
+183,Kaleva,"2 h, k, kph, la...",kt,50.0,165000,3300,1959,2/6,on,tyyd.,vuokra,F2013
+184,Kaukajärvi,"2h, k, kph, las...",kt,50.5,100000,1980,1967,3/7,on,hyvä,oma,E2018
+185,Tammela,2H+K+KPH+VH+P,kt,60.0,168000,2800,1950,5/6,on,tyyd.,oma,
+186,Lamminpää,2h+k+erill.wc+s...,rt,62.0,113500,1831,1985,1/1,ei,tyyd.,oma,E2013
+187,Irjala,2h+k+vh+kph+par...,kt,65.0,80000,1231,1981,1/3,ei,tyyd.,oma,
+188,Linnainmaa,"2h, k, kph, s, ...",rt,55.5,147500,2658,1989,1/1,ei,hyvä,vuokra,
+189,Hervanta,"2h, k, khh, kph...",kt,66.0,95000,1439,1980,4/6,on,tyyd.,oma,
+190,Tammela,2h+kk+kph+lasit...,kt,46.0,183000,3978,1974,7/7,on,hyvä,oma,C2018
+191,Hervanta,"2 h, k, s, kph,...",rt,53.0,115000,2170,1976,1/1,ei,tyyd.,oma,D2018
+192,Vuores,2h+kt+kph+huone...,kt,37.0,128000,3459,2017,3/6,on,,vuokra,C2013
+193,Hämeenpuisto,1h+k+alk+kph+wc...,kt,47.0,180000,3830,1938,6/8,on,,oma,E2013
+194,Irjala,"2h,k,vh,parveke...",kt,50.0,102060,2041,1971,3/3,on,tyyd.,oma,F2013
+195,Kaleva,2h+kk+kph+vh+et,kt,50.0,144500,2890,1965,6/9,on,,vuokra,G2013
+196,Epilä,"2h, avokeitti...",kt,46.0,130000,2826,2007,3/5,on,,oma,C2018
+197,Takahuhti,"2h, k, las. p",kt,49.0,150000,3061,2012,3/4,on,,vuokra,D2013
+198,Amuri,"2h, kk",kt,36.0,125000,3472,1946,2/5,on,,vuokra,D2018
+199,Kaleva,"2h, kt, kph, te...",kt,40.0,190000,4750,2016,2/9,on,hyvä,vuokra,C2013
+200,Hallila,"2 h, kk, ph +s",rt,44.5,95000,2135,1991,1/1,ei,tyyd.,vuokra,F2013
+201,Viinikka,2-3h+k+kph/wc,kt,58.0,146000,2517,1949,2/2,ei,,vuokra,D2018
+202,Rantaperkiö,"2h, kk, kph, p",kt,48.0,136000,2833,1960,1/6,on,hyvä,vuokra,F2013
+203,Lentävänniemi,"2h, kt, s",kt,43.5,129000,2966,2013,6/8,on,hyvä,vuokra,C2013
+204,Keskusta,2h+k+p,kt,62.5,193000,3088,1967,5/6,on,tyyd.,oma,D2018
+205,Peltolammi,"2h, k, wc/kph, ...",kt,53.5,105000,1963,1968,3/3,ei,hyvä,vuokra,C2018
+206,Keskusta,2h+kt+kph+wc+ra...,kt,56.5,307000,5434,2020,8/8,on,hyvä,oma,E2018
+207,Lukonmäki,"2h, k, kph, vh,...",kt,61.0,102000,1672,1980,3/3,ei,,oma,D2018
+208,Hervanta,2h+k+kph/s+wc+v...,kt,54.0,99000,1833,1988,2/8,on,,oma,B2018
+209,Kaleva,"2h, k, kph / s",kt,56.0,178000,3179,1959,2/3,ei,hyvä,vuokra,D2018
+210,Multisilta,"2h, k, kph",kt,58.0,75500,1302,1971,4/5,on,,vuokra,E2013
+211,Hervanta,"2h, k, kph/s/wc...",kt,58.5,97000,1658,1987,6/8,on,hyvä,oma,F2013
+212,Hatanpää,2h+k+s,kt,59.5,175000,2941,2000,2/6,on,hyvä,vuokra,F2013
+213,Keskusta,2h+k+kph+vh,kt,51.2,220100,4299,1965,6/7,on,hyvä,oma,F2013
+214,Peltolammi,"2h, k, kph/wc, ...",kt,53.5,75000,1402,1969,3/3,ei,tyyd.,vuokra,F2013
+215,Annala,Olohuone/keitti...,kt,40.0,105000,2625,1994,4/4,on,hyvä,vuokra,C2018
+216,Tammela,"2h, k, kph, s, ...",kt,57.0,176000,3088,1995,1/5,on,tyyd.,oma,D2018
+217,Lentävänniemi,2h+k+kph/wc+vh+...,kt,58.0,77500,1336,1974,7/7,on,,oma,D2018
+218,Amuri,"2h, k, ph, vh, p",kt,58.0,170500,2940,1969,5/6,on,tyyd.,oma,
+219,Takahuhti,2h+k+kph+vh+las...,kt,65.0,90000,1385,1981,3/3,ei,hyvä,oma,
+220,Osmonmäki,2h+kk+parv,kt,48.5,154000,3175,1968,4/6,on,tyyd.,oma,B2018
+221,Keskusta,"2h, kt",kt,40.0,310495,7762,2024,4/8,on,hyvä,oma,B2018
+222,Hirvikallio,"2h+k, khp/ s, v...",rt,55.0,146500,2664,2010,1/1,ei,hyvä,vuokra,E2013
+223,Hatanpää,2h+kt+s+kph+par...,kt,42.0,145000,3452,1997,5/5,on,hyvä,vuokra,D2007
+224,Hatanpää,"2h, kt, kph/wc,...",kt,46.0,169000,3674,2002,4/4,on,,vuokra,
+225,Annala,"2h, kk, kph/s, ...",kt,43.0,83000,1930,1988,1/3,ei,hyvä,oma,E2013
+226,Keskusta,oh/avokeitti...,kt,57.0,202500,3553,2006,4/5,on,hyvä,vuokra,D2013
+227,Hervantajärvi,"2h, kt, s, parveke",kt,43.0,145852,3392,2023,2/5,on,,vuokra,B2018
+228,Järvensivu,2h + k + kph/wc...,kt,56.0,167000,2982,1962,6/6,on,,vuokra,D2018
+229,Kaleva,2h+kk+kh+p,kt,56.0,180000,3214,1950,2/3,ei,hyvä,vuokra,E2018
+230,Haukiluoma,2h + k + kph/sa...,rt,63.0,110000,1746,1986,1/1,ei,tyyd.,vuokra,D2018
+231,Haapalinna,"2h,k,kph,s,lasi...",kt,59.0,115000,1949,1989,2/6,on,,oma,E2018
+232,Tammela,2h+k+kph+sauna,kt,44.5,135000,3034,1958,3/4,ei,tyyd.,oma,F2018
+233,Nekala,"2h, kk, kph, vh, p",kt,52.0,120000,2308,1958,1/3,ei,hyvä,vuokra,F2013
+234,Käpylä,2H+KK+S+lasitet...,kt,51.0,175000,3431,2007,3/6,on,tyyd.,vuokra,E2013
+235,Rahola,"2h,k,kph,p",kt,59.0,109000,1847,1966,2/3,ei,,oma,E2018
+236,Annala,2h+k+s+las.parveke,kt,53.0,110000,2075,1989,3/3,on,hyvä,oma,E2013
+237,Peltolammi,"2h, k, vh, p",kt,53.5,94000,1757,1967,1/3,ei,hyvä,vuokra,E2018
+238,Hirvikallio,"2h+k, khp, s + ...",rt,55.0,154000,2800,2010,1/1,ei,hyvä,vuokra,E2013
+239,Petsamo,2k+k+vh+kph+las p,kt,57.0,156500,2746,1968,3/3,ei,,vuokra,D2018
+240,Kissanmaa,"2h, kk, wc/kph,...",kt,36.0,150000,4167,2016,2/2,ei,hyvä,vuokra,C2013
+241,Linnainmaa,2h+k+s,kt,44.0,107500,2443,2004,2/3,on,tyyd.,vuokra,C2018
+242,Keskusta,"2h, kt",kt,41.0,285000,6951,2024,2/8,on,hyvä,oma,B2018
+243,Armonkallio,"2h, k, kph/wc, ...",kt,52.5,165000,3143,1971,1/3,on,tyyd.,oma,E2018
+244,Keskusta,2h+k+parveke-(l...,kt,60.0,200000,3333,1964,1/7,on,tyyd.,oma,D2018
+245,Sorsapuisto,"2h, kk, erill.w...",kt,53.0,189000,3566,1936,3/4,ei,hyvä,vuokra,E2018
+246,Tammela,2h+k+s+p,kt,59.5,169500,2849,1985,3/7,on,tyyd.,oma,F2013
+247,Atala,2h + kk + s,rt,48.0,140000,2917,1987,1/1,ei,hyvä,oma,C2018
+248,Annala,2h+kt+s+kph+vh,kt,44.0,119900,2725,2016,3/5,on,hyvä,vuokra,C2013
+249,Kaleva,2h+k,kt,63.0,174000,2762,1956,2/6,on,,vuokra,D2018
+250,Ratinanranta,"2h,kk,kph,lasit...",kt,51.0,252000,4941,2011,3/5,on,hyvä,oma,E2018
+251,Keskusta,"2h,k,s, kattote...",kt,63.0,485000,7698,2015,9/9,on,hyvä,oma,C2018
+252,Finninmäki,"2h, k, rt, tkh,...",rt,69.0,167000,2420,1984,1/2,ei,hyvä,oma,D2018
+253,"Annala, kaukajärvi",2h+k+kph+parveke,kt,55.5,90500,1631,1974,3/3,ei,tyyd.,oma,D2018
+254,Tammela,2h+kk+kh+alk,kt,43.0,166000,3860,1961,7/7,on,tyyd.,oma,C2018
+255,Keskusta,"2h,k,s,p",kt,54.0,324000,6000,1965,,on,hyvä,oma,C2018
+256,Kaukajärvi,2h+kt+s+lasit.p.,kt,44.5,194000,4360,2024,5/8,ei,hyvä,vuokra,A2018
+257,Keskusta,"2h, k, kph, las...",kt,53.0,187500,3538,1972,5/6,on,hyvä,vuokra,E2018
+258,Keskusta,2 h+kk+kph+parveke,kt,50.0,38000,760,1977,1/3,ei,tyyd.,oma,
+259,Haapalinna,"2h,k,kph/wc,s,vh",kt,53.0,150000,2830,2004,6/6,on,hyvä,oma,E2013
+260,Haukiluoma,"2h, k, kph / s,...",rt,61.0,139000,2279,1980,1/1,ei,hyvä,vuokra,
+261,Takahuhti,"2h, kt, kph, la...",kt,36.0,147000,4083,2020,5/6,ei,hyvä,vuokra,B2018
+262,Kaleva,"2h, k, kph/wc, ...",kt,59.5,170000,2857,1954,1/6,on,tyyd.,vuokra,E2018
+263,Haukiluoma,"2h, kk, kph, la...",kt,38.0,118900,3129,2017,3/4,on,hyvä,vuokra,C2013
+264,Vuores,2h+k+kph/s+vh+l...,kt,49.0,194000,3959,2022,5/5,on,,vuokra,B2018
+265,Koivistonkylä,2h+kt+s,kt,50.5,199000,3941,2022,3/4,on,hyvä,vuokra,A2018
+266,Ranta-tampella,"2h, k, kph, las...",kt,35.0,228000,6514,2020,5/9,on,hyvä,oma,B2018
+267,Vuores,2h+kt,kt,46.0,142000,3087,2014,2/5,on,hyvä,vuokra,C2013
+268,Ranta-tampella,"2h, kt, kph/s, ...",kt,56.0,320912,5731,2019,1/8,on,hyvä,,C2013
+269,Lentävänniemi,2h+k,kt,62.5,112000,1792,1976,2/6,ei,hyvä,oma,D2018
+270,Hervantajärvi,2h+kt+kph+iso l...,kt,32.0,130000,4063,2023,1/6,on,hyvä,vuokra,B2018
+271,Tammela,"2h, kk, kph",kt,37.5,142000,3787,1955,6/6,on,tyyd.,vuokra,D2018
+272,Lentävänniemi,2h+kk+p,kt,50.0,100000,2000,1978,5/6,on,tyyd.,oma,D2018
+273,Tohloppi,2h+k+s,rt,54.0,159000,2944,1989,1/1,ei,,oma,D2018
+274,Tammela,"2h, k, kph, s, ...",kt,56.0,163000,2911,1984,1/7,on,tyyd.,oma,D2018
+275,Ratina,2h+k+kph+s+et+p...,kt,59.0,410000,6949,2009,3/5,on,hyvä,oma,D2018
+276,Ratinanranta,"2h,kk,kph,lasit...",kt,43.0,230000,5349,2011,3/5,on,hyvä,oma,E2018
+277,Ratinanranta,"2h,kk,kph,s,las...",kt,44.0,270000,6136,2009,5/5,on,hyvä,,C2018
+278,Hervantajärvi,"2-3h, kt, kph, ...",kt,44.5,187000,4202,2024,3/4,on,hyvä,vuokra,A2018
+279,Kaleva,"2h, k, kph, 2vh, p",kt,58.5,165000,2821,1954,1/4,ei,tyyd.,vuokra,C2018
+280,Kaukajärvi,"2h,k,s",kt,59.0,145000,2458,2005,2/8,on,,oma,D2018
+281,Hallila,2H + K + S,rt,59.5,155000,2605,1990,1/1,ei,tyyd.,vuokra,F2013
+282,Pyynikki,2h + kk + kph,kt,40.0,112000,2800,1936,2/3,ei,hyvä,vuokra,G2013
+283,Pispala,2h+k+kph+khh ti...,kt,43.5,180000,4138,1929,1/3,ei,hyvä,oma,
+284,Kaukajärvi,2H+K+KPH+Lasite...,kt,52.0,90000,1731,1966,1/3,ei,tyyd.,oma,E2013
+285,Rautaharkko,"2h, k, kph, vh, p",kt,53.0,74000,1396,1969,3/3,ei,huono,vuokra,F2013
+286,Kaukajärvi,"2h,k, kph/wc, v...",kt,60.0,126000,2100,1966,3/3,ei,hyvä,oma,E2013
+287,Lapinniemi,1h+k+kph+s+eril...,kt,67.0,330000,4925,1899,4/6,on,hyvä,oma,
+288,Amuri,2h+kk+s,kt,43.5,147000,3379,1989,3/6,on,tyyd.,oma,C2018
+289,Keskusta,"2h, kph, kk, pa...",kt,52.0,187000,3596,1959,3/6,on,tyyd.,oma,D2007
+290,Multisilta,2h+k+p,kt,56.0,45000,804,1978,1/5,on,tyyd.,vuokra,E2018
+291,Tammela,"2-3h, k, kph, s...",kt,65.5,171000,2611,1980,5/6,on,tyyd.,oma,C2007
+292,Pyynikki,2h+kk+kph,kt,39.0,170000,4359,1961,3/6,on,hyvä,oma,
+293,Hallila,"2h, k, kph/s, w...",rt,59.5,155000,2605,1991,1/1,ei,hyvä,vuokra,F2013
+294,Multisilta,2h + kk + kph + vh,kt,51.0,83500,1637,1970,1/4,ei,tyyd.,vuokra,F2013
+295,Keskusta,2h + k + kph/wc,kt,57.0,165000,2895,1957,4/7,on,,oma,F2013
+296,Tammela,"2h, k, kph, vh,...",kt,59.0,212000,3593,1970,2/7,on,hyvä,oma,D2018
+297,Ruotula,2h + kk + lasit...,kt,43.0,100000,2326,1966,1/3,ei,,vuokra,D2018
+298,Tahmela,2h + kk + kph/w...,kt,46.0,159000,3457,1987,2/2,ei,,oma,E2018
+299,Lentävänniemi,"2h, k, wc, kph/...",rt,61.0,205000,3361,1978,1/1,ei,hyvä,oma,E2013
+300,Kaleva,"2h, k",kt,63.0,147000,2333,1958,2/3,ei,hyvä,vuokra,B2007
+301,Tammela,"2h, k, kph, sau...",kt,56.0,167000,2982,1984,2/6,on,hyvä,oma,D2018
+302,Onkiniemi,2h+työtila...,kt,65.0,245000,3769,1986,1/3,on,,oma,F2013
+303,Ruotula,2h+kk,kt,42.0,107500,2560,1965,6/6,on,hyvä,vuokra,D2018
+304,Hatanpää,"2h, avok, kph, ...",kt,39.5,175000,4430,2019,3/7,on,hyvä,vuokra,C2013
+305,Hervanta,2h+k+kph/wc+s+p...,kt,50.0,130000,2600,2002,2/5,on,,vuokra,D2013
+306,Kohmankaari,"2h, k, s, lasit. p",kt,53.5,142500,2664,2008,3/4,on,hyvä,vuokra,D2007
+307,Pohtola,"2h, k, kph/wc, ...",kt,59.5,122000,2050,1972,1/3,ei,hyvä,oma,D2018
+308,Lamminpää,"2h, kt",kt,40.0,165000,4125,2024,5/5,on,hyvä,oma,A2018
+309,Hervanta,2h+k+kh+vh+las....,kt,54.0,68000,1259,1975,6/7,on,tyyd.,oma,C2018
+310,Koivistonkylä,"2h,kk,s",kt,40.0,112000,2800,1999,1/2,ei,,oma,D2013
+311,Ranta-tampella,"2h, kt, vh, kph, p",kt,44.0,328000,7455,2022,3/8,on,,,B2018
+312,Olkahinen,2h+k+kph+s,rt,57.5,113000,1965,1990,1/1,ei,tyyd.,vuokra,E2018
+313,Ruotula,2h+k,kt,52.0,116000,2231,1965,6/6,on,hyvä,vuokra,E2018
+314,Lamminpää,"2h, kt, s",kt,49.0,184500,3765,2024,4/5,on,hyvä,oma,A2018
+315,Hallila,2h + k + kph/s/...,rt,59.0,170000,2881,1996,1/1,ei,,vuokra,D2018
+316,Rautaharkko,"2h,kk,kph,vh,la...",kt,45.0,103000,2289,1969,1/3,ei,hyvä,vuokra,F2013
+317,Hervanta,"2h, kk, kph/wc,...",kt,48.0,70000,1458,1978,5/6,on,tyyd.,oma,D2018
+318,Niemenranta,2h+k+s,kt,54.5,196856,3612,2013,6/8,on,hyvä,oma,B2018
+319,Keskusta,2h+k+kph,kt,57.0,214500,3763,1974,7/7,on,hyvä,oma,E2013
+320,Linnainmaa,"2h,kt,kph,las.p...",kt,34.0,115500,3397,2018,1/7,on,hyvä,vuokra,C2013
+321,Vuores,2h+kt+s+p,kt,39.5,140000,3544,2020,3/8,on,hyvä,vuokra,B2018
+322,Kaleva,"2h, k, kph/wc, ...",kt,53.5,165000,3084,1959,3/7,on,tyyd.,vuokra,D2018
+323,Niemenranta,SENIORIASUNTO 2...,kt,55.0,198000,3600,2017,3/5,on,tyyd.,,C2013
+324,Hervanta,"2h, kk, kph, s, p",kt,36.0,85000,2361,1989,2/6,on,tyyd.,oma,E2013
+325,Kaakinmaa,2h + kk + p,kt,48.0,230000,4792,1975,7/7,on,hyvä,oma,F2013
+326,Hervantajärvi,"2h, kt, kph, te...",kt,49.0,177000,3612,2023,1/4,on,hyvä,vuokra,B2018
+327,Lielahti,"2h,k,s",kt,55.0,118000,2145,1990,2/2,ei,,oma,F2013
+328,Keskusta,1h+k+wc+kph,kt,38.0,163500,4303,1927,5/6,on,hyvä,vuokra,F2013
+329,Hallila,2h+k+kph/s+terassi,rt,45.0,144000,3200,1990,1/1,ei,,vuokra,F2013
+330,Linnainmaa,2h+kt+s,kt,51.5,173900,3377,2016,2/7,on,hyvä,oma,C2013
+331,Kaleva,"2h, k, kph/wc, ...",kt,57.0,160000,2807,1969,3/3,ei,hyvä,vuokra,F2007
+332,Kaleva,"2h, k, p",kt,60.0,229700,3828,1954,5/6,on,hyvä,vuokra,E2018
+333,Lamminpää,2h+k+s,rt,65.0,165000,2538,1987,1/1,ei,hyvä,oma,D2018
+334,Pyynikki,"2h, avokeitti...",kt,52.0,167200,3215,1939,5/6,on,,oma,E2018
+335,Niemenranta,"2h, k, kph, s, ...",kt,53.5,162000,3028,2017,2/4,on,hyvä,vuokra,C2013
+336,Kaleva,2h+k+kph/wc+vh+p,kt,56.0,160000,2857,1959,2/7,on,,vuokra,D2018
+337,Hervanta,"2h, k, kph/wc, ...",kt,60.5,125000,2066,1980,1/5,on,hyvä,oma,E2013
+338,Lamminpää,"2h, kt, s",kt,49.0,199000,4061,2024,5/5,on,hyvä,oma,A2018
+339,Kämmenniemi,2h+k+s,rt,60.0,75000,1250,1985,1/1,ei,tyyd.,vuokra,E2018
+340,Keskusta,"2h,k,kph,vh,las...",kt,57.0,208000,3649,1969,5/7,on,,oma,G2018
+341,Härmälä,2h+kt+ph+lasite...,kt,41.0,177000,4317,2021,2/4,on,hyvä,vuokra,B2018
+342,Tammela,2h+k+kph/wc+ran...,kt,65.0,194000,2985,1972,6/7,on,hyvä,oma,F2018
+343,Hervanta,"2h, k, kph, vh,...",kt,62.0,119000,1919,1974,3/5,on,hyvä,oma,D2018
+344,Linnainmaa,"2h,kt,s",kt,43.0,155000,3605,2011,4/5,on,,oma,C2013
+345,Hatanpää,"2h,kk,s,kph, pa...",kt,45.0,169000,3756,2002,5/5,on,,oma,
+346,Pyynikki,"2h, kt",kt,38.0,128000,3368,1928,4/6,on,,vuokra,F2013
+347,Kaukajärvi,2h+k+s,kt,48.0,100000,2083,1998,1/4,on,,oma,D2018
+348,Tammela,2h+k+kph+vh,kt,44.0,188500,4284,1994,1/2,ei,hyvä,vuokra,D2018
+349,Hervanta,"2h, kk, kph, vh",kt,48.0,73000,1521,1976,3/5,on,hyvä,oma,C2018
+350,Niemenranta,2 h+kk+ s,kt,43.5,165000,3793,2013,4/8,on,hyvä,oma,C2013
+351,Rantaperkiö,"2h,kk,kph/wc,vh...",kt,43.0,108000,2512,1971,3/3,ei,,vuokra,D2018
+352,Lentävänniemi,"2h, kk, s",kt,49.0,130000,2653,2004,1/5,on,,vuokra,E2013
+353,Peltolammi,"2h, k, kph, vh,...",kt,53.5,71000,1327,1968,3/3,ei,tyyd.,vuokra,F2013
+354,Epilä,2h+k+et+kph+las...,kt,56.0,98006,1750,1967,3/3,ei,,oma,F2013
+355,Keskusta,"2h, kk",kt,40.5,169000,4173,1962,2/9,on,tyyd.,oma,C2018
+356,Uusikylä,"2h,k",kt,51.0,136113,2669,1967,1/4,ei,,oma,F2018
+357,Annala,2h+k+kph+lasite...,kt,56.0,85000,1518,1974,3/3,ei,,oma,
+358,Kaleva,"Oh, mh, k, kph/...",kt,57.0,177500,3114,1954,6/6,on,hyvä,vuokra,D2018
+359,Linnainmaa,2h+k+kph/wc+p,kt,58.0,104000,1793,1983,2/3,ei,,oma,C2018
+360,Lukonmäki,2h+k+s+vh+terassi,rt,61.0,124500,2041,1977,1/1,ei,,oma,E2013
+361,Tesoma,"2h, k, vh, kph",kt,48.0,44000,917,1969,1/3,ei,,vuokra,D2018
+362,Palokallio,2h+k+kph/s+wc+v...,rt,60.0,160000,2667,1995,1/1,ei,,vuokra,
+363,Tammela,SUPERHIENO KAKS...,kt,42.0,182000,4333,1922,1/2,ei,hyvä,vuokra,C2018
+364,Kaukajärvi,2h+k,kt,51.0,87500,1716,1967,6/7,on,,oma,E2018
+365,Tammela,"2h,kt,s,terassi",kt,54.5,174000,3193,2016,1/8,ei,hyvä,vuokra,C2013
+366,Kaleva,"2h, k, las. p",kt,60.0,230000,3833,1958,5/7,on,hyvä,vuokra,F2013
+367,Ristinarkku,2h+kt+et+kph/wc...,kt,46.0,155000,3370,2019,2/7,on,hyvä,vuokra,C2013
+368,Annala,2h+k+s+kph+vh+l...,kt,51.0,125000,2451,2016,2/5,on,hyvä,vuokra,C2013
+369,Vuores,2h+k+s/kph/wc+a...,rt,56.5,204000,3611,2016,1/1,ei,hyvä,vuokra,C2013
+370,Koivistonkylä,"2h, kt",kt,36.0,162555,4515,2023,4/5,on,hyvä,vuokra,A2018
+371,Hyhky,2h+k+s,kt,47.0,117000,2489,1982,,ei,,oma,G2013
+372,Peltolammi,"2h,k,kph/wc,par...",kt,49.0,87500,1786,1969,2/4,ei,hyvä,vuokra,F2013
+373,Kaleva,2h+k,kt,53.0,155000,2925,1951,4/4,ei,,vuokra,
+374,Janka,2h+k+s,kt,56.0,132000,2357,1991,1/4,on,hyvä,vuokra,F2013
+375,Hakametsä,"2h, avok, kph, ...",kt,49.0,180000,3673,2015,1/2,ei,hyvä,vuokra,A2007
+376,Haapalinna,2h+kt+s,kt,40.0,118000,2950,2004,2/5,on,tyyd.,oma,E2013
+377,Hervantajärvi,"2h, kt, s, p",kt,42.0,157200,3743,2023,3/5,on,hyvä,vuokra,B2018
+378,Pispala,"2h, k, s, lasit...",kt,43.0,132500,3081,1991,1/2,ei,hyvä,oma,F2013
+379,Keskusta,2h+kk,kt,42.5,185000,4353,1973,3/7,on,hyvä,oma,D2018
+380,Tammela,SUPERHIENO KAKS...,kt,43.0,198000,4605,1922,1/2,ei,hyvä,vuokra,C2018
+381,Tammela,2h+k+kph+vh,kt,44.0,189900,4316,1994,1/2,ei,hyvä,vuokra,D2018
+382,Annala,2h + k + kph/wc...,kt,60.0,93000,1550,1980,7/7,on,,oma,B2018
+383,Hervanta,"2h,k,kph,vh,las...",kt,54.0,95000,1759,1975,2/7,on,,oma,C2018
+384,Atala,"2h, k, s",rt,66.0,146000,2212,1985,1/1,ei,,oma,E2013
+385,Hervanta,2h+k+kph+vh+las.p,kt,54.0,133000,2463,1978,4/7,on,hyvä,oma,F2013
+386,Onkiniemi,"2h, k, kph / wc, p",kt,58.0,143000,2466,1974,3/3,ei,tyyd.,oma,G2013
+387,Tammela,2h + k + kph/sa...,kt,53.0,195000,3679,1988,2/4,on,,oma,C2018
+388,Hallila,"2h,k,kph,terassi",rt,58.0,150000,2586,1992,1/1,ei,hyvä,vuokra,E2013
+389,Kaleva,"2h, k, kh, vh",kt,57.0,150000,2632,1955,2/4,ei,tyyd.,vuokra,F2013
+390,Kaleva,"2H,KT, KPH, las...",kt,36.5,172500,4726,2018,4/6,ei,hyvä,vuokra,C2013
+391,Kaukajärvi,2h+k+kph+lasite...,kt,52.0,84000,1615,1966,1/3,ei,tyyd.,oma,
+392,Hervanta,"2h, avok, kph/w...",kt,45.5,132000,2901,2004,4/4,on,hyvä,vuokra,F2013
+393,Hervanta,"2h, kk, kph, vh",kt,47.0,102000,2170,1976,1/8,on,hyvä,oma,F2013
+394,Hervanta,"2h, k, s, p",kt,62.0,110000,1774,1985,1/6,on,tyyd.,oma,B2018
+395,Keskusta,2h+kk+kh+p,kt,47.5,189000,3979,1959,5/6,on,hyvä,oma,D2018
+396,Pyynikintori,2h+k,kt,68.0,249000,3662,1928,3/6,on,hyvä,vuokra,F2013
+397,Kaleva,2h+k+p,kt,53.0,160000,3019,1960,5/6,on,tyyd.,vuokra,G2013
+398,Peltolammi,"2h, k, kph/wc, ...",kt,54.0,88000,1630,1990,2/2,ei,hyvä,vuokra,G2013
+399,Kissanmaa,"2h, k, kph, p",kt,54.0,144000,2667,1954,2/2,ei,hyvä,vuokra,D2018
+400,Käpylä,2h+KK+S+lasitet...,kt,52.0,179000,3442,2007,5/6,on,tyyd.,vuokra,C2018
+401,Mettistö,"2h,k,s,parvi,au...",rt,58.0,278000,4793,2021,1/1,ei,hyvä,oma,B2018
+402,Rahola,"2h, k, kph/wc, ...",kt,51.0,92000,1804,1965,3/3,ei,hyvä,oma,G2013
+403,Hervanta,2h+k,kt,62.0,112000,1806,1974,5/7,on,hyvä,oma,D2013
+404,Amuri,"2h, k,s",kt,46.0,169100,3676,1985,3/8,on,,oma,E2018
+405,Hatanpää,"2h, k, s, kph/w...",kt,60.5,215000,3554,2000,1/5,on,hyvä,vuokra,F2013
+406,Tammela,2h + k + kph + ...,kt,50.0,180000,3600,1970,1/7,on,hyvä,oma,D2018
+407,"Juhannuskylä, keskusta",2h+k+s+p,kt,57.0,166000,2912,1983,2/5,on,tyyd.,oma,E2013
+408,Hervanta,"2 h,kt,s, iso t...",kt,55.5,194000,3495,2015,5/5,on,hyvä,vuokra,C2013
+409,Hervanta,"2h, avokeitti...",kt,56.0,127000,2268,1983,6/7,on,hyvä,oma,B2018
+410,Hervanta,"2h, k, kph, s, vh",kt,58.5,99000,1692,1987,1/8,on,hyvä,oma,F2013
+411,Veisu,2h+k+et+wc+kph+s,rt,67.0,158500,2366,1988,1/1,ei,,oma,E2013
+412,Härmälänranta,2h+kt+s,kt,46.5,191000,4108,2018,1/6,on,hyvä,,C2013
+413,Hervantajärvi,"2h, kt, kph, vh...",kt,41.0,177900,4339,2024,3/4,on,hyvä,vuokra,A2018
+414,Halkoniemi,2h+kt+s,kt,49.5,245000,4949,2018,4/7,on,hyvä,vuokra,C2013
+415,Irjala,"oh, mh, kk, wc/...",kt,45.5,113500,2495,1972,2/3,ei,hyvä,oma,C2018
+416,Lintulampi,"2h, k, s, piha",rt,47.0,136000,2894,1991,1/1,ei,,oma,F2013
+417,Keskusta,"2h, k, kph, las...",kt,54.0,191000,3537,1963,5/7,on,tyyd.,oma,D2018
+418,Kaleva,2h+k+kph+et+vh,kt,57.0,165000,2895,1956,1/3,ei,,vuokra,F2013
+419,Rantaperkiö,"2h,k,kph,p",kt,48.0,115000,2396,1970,1/3,ei,,vuokra,
+420,Ruotula,"2h,kk,kph",kt,39.0,123000,3154,1962,4/5,on,,oma,E2018
+421,Tammela,"2h, kt, p",kt,35.0,230000,6571,2024,8/8,on,,vuokra,B2018
+422,Haapalinna,"2h, k, s",kt,59.5,135000,2269,1989,5/5,on,tyyd.,oma,C2007
+423,Linnainmaa,"2h, kt, kph, la...",kt,34.0,140000,4118,2018,5/7,on,hyvä,vuokra,C2013
+424,Keskusta,"2h,k,p",kt,54.0,161000,2981,1960,4/6,on,,oma,G2013
+425,Kaleva,2h+k,kt,48.5,188500,3887,1951,4/4,ei,hyvä,vuokra,D2018
+426,Mäyränmäki,"2h, kt, kph, s,...",kt,50.5,149500,2960,2014,1/2,ei,hyvä,vuokra,A2013
+427,Linnainmaa,2h+kk+s,kt,48.0,140000,2917,2005,4/4,on,hyvä,vuokra,
+428,Hervanta,"2h, kk, kph/wc,...",kt,52.5,60000,1143,1981,1/5,on,tyyd.,oma,F2013
+429,Vuores,2h+kt+ransk.parv.,kt,46.0,135000,2935,2023,2/4,on,hyvä,vuokra,
+430,Kaleva,"2h, kt, kph, s,...",kt,53.0,226000,4264,2016,2/6,on,hyvä,oma,C2013
+431,Tammela,"2h, k, kh/wc, v...",kt,51.0,165000,3235,1967,2/6,on,tyyd.,oma,C2018
+432,Kaleva,2h+k+kph/wc+vh+...,kt,57.0,229000,4018,1959,7/7,on,,vuokra,
+433,Tampella,2h+k+kph/s+wc+v...,kt,59.0,277000,4695,2000,5/8,on,,oma,F2013
+434,Kaukajärvi,2h+k+kph+et+vh+...,kt,63.0,76000,1206,1972,3/3,ei,,oma,D2018
+435,Hervanta,"2h, k, kph/saun...",kt,63.0,128000,2032,1990,6/8,on,tyyd.,oma,E2013
+436,Huikas,"2h, avok, kph, ...",kt,49.5,220000,4444,2021,4/4,on,hyvä,vuokra,B2018
+437,Kaukajärvi,2h+k,kt,56.0,77000,1375,1974,1/3,ei,huono,oma,F2013
+438,Hervantajärvi,"2h, kt, parveke",kt,39.0,155560,3989,2023,2/5,on,hyvä,vuokra,B2018
+439,Annala,"2h,kk,vh,kph,s",kt,52.5,55000,1048,1985,2/3,ei,tyyd.,oma,E2013
+440,Hervanta,2h+k+kph/wc+et+...,kt,58.0,107000,1845,1974,3/6,on,tyyd.,oma,D2018
+441,Kaleva,"2h, kt, kph, s,...",kt,47.5,267000,5621,2020,9/9,on,hyvä,,C2013
+442,Iidesranta,2h+kk+kh,kt,45.0,128000,2844,1962,3/6,on,hyvä,vuokra,F2013
+443,Niemenranta,2h+kk+s,kt,46.5,179000,3849,2013,6/8,on,hyvä,oma,B2018
+444,Niemenranta,2h+kk+s,kt,47.5,164900,3472,2014,2/8,on,hyvä,oma,B2018
+445,Lentävänniemi,"2, k, psh, p",kt,59.0,95000,1610,1975,2/9,on,hyvä,oma,G2013
+446,Leinola,2h+k+s,rt,63.5,160000,2520,1994,1/1,ei,,vuokra,
+447,Rahola,"2h, kk, kph / wc",kt,40.0,86000,2150,1962,2/2,ei,hyvä,vuokra,
+448,Tammela,"2h,k,lasitettu ...",kt,52.5,165000,3143,1984,6/6,on,tyyd.,oma,F2013
+449,Tammela,2h+k+kh+p,kt,51.5,185000,3592,1969,1/7,on,hyvä,oma,E2013
+450,Järvensivu,2h+k,kt,56.0,150000,2679,1962,2/6,on,,vuokra,D2018
+451,Hyhky,4h+k+kph+s+vh+p...,rt,65.5,217000,3313,1990,2/2,ei,hyvä,oma,
+452,Messukylä,"2h, kt, kph/wc,...",kt,42.0,190000,4524,2020,5/5,on,hyvä,oma,B2018
+453,Tohloppi,2 h + k + parveke,kt,54.5,84500,1550,1969,3/3,ei,hyvä,vuokra,G2013
+454,Messukylä,"2h,kt, kh, p",kt,48.5,172500,3557,2020,4/5,on,hyvä,oma,B2018
+455,Hervanta,2h+kk,kt,42.5,140000,3294,2017,5/5,on,hyvä,vuokra,C2013
+456,Härmälänranta,2h+kt+s,kt,46.5,210000,4516,2018,4/6,on,hyvä,,C2013
+457,Takahuhti,2h+k+s,rt,47.5,120000,2526,1988,1/1,ei,hyvä,oma,C2018
+458,Hervanta,"2h,k,s",kt,52.0,130000,2500,2006,2/4,on,,vuokra,F2013
+459,Kaleva,"2h, k, kph/wc",kt,50.5,190000,3762,1956,5/6,on,hyvä,vuokra,F2013
+460,Niemenranta,"2 h, k, s, p",kt,50.5,193091,3824,2015,3/8,on,hyvä,,B2018
+461,Vuores,2h+avok+wc/kph+...,kt,54.0,163000,3019,2016,2/5,on,hyvä,vuokra,C2013
+462,Linnainmaa,2h+k+kph+s+parveke,kt,54.0,128000,2370,1988,4/6,on,tyyd.,oma,C2018
+463,Kaukajärvi,"2h,k,s",kt,61.0,166000,2721,2007,,on,,vuokra,D2018
+464,Atala,"1 mh, olohuone,...",rt,62.5,157000,2512,2002,1/1,ei,tyyd.,oma,E2007
+465,Kaleva,"2h, k",kt,57.0,159000,2789,1965,7/9,on,,vuokra,F2013
+466,Veisu,2h+k+p,kt,56.5,132000,2336,1970,2/3,ei,tyyd.,oma,D2018
+467,Multisilta,2h+k+kph/wc+et+...,kt,57.5,68000,1183,1972,1/7,on,tyyd.,vuokra,G2013
+468,Linnainmaa,"2h, k, kph, s, ...",kt,43.0,160000,3721,2018,3/7,on,hyvä,vuokra,C2013
+469,Kaleva,2H+KT+VH+KPH+LA...,kt,46.5,220000,4731,2017,7/8,on,hyvä,vuokra,C2013
+470,Amuri,"2h,k",kt,53.0,210000,3962,1965,7/12,on,,oma,
+471,Linnainmaa,"2 h, kt, s, p",kt,57.5,201900,3511,2015,3/5,on,hyvä,oma,C2013
+472,Keskusta,"2h, kk, kph/wc,...",kt,47.0,197000,4191,1999,3/8,on,hyvä,oma,
+473,Tesoma,"2h, k, kph, vh,...",kt,57.9,82000,1416,1966,1/3,ei,hyvä,vuokra,
+474,Pohtola,"2h,k,kph",kt,60.0,106000,1767,1972,,ei,hyvä,oma,D2018
+475,Hatanpää,"2h, kph, las.p",kt,37.0,172000,4649,2020,5/7,on,,vuokra,C2018
+476,Hervantajärvi,"2h, kt, kph, vh...",kt,41.0,183900,4485,2024,4/4,on,hyvä,vuokra,A2018
+477,Peltolammi,2h+k+s+kph/khh+...,rt,60.5,153000,2529,1990,1/1,ei,tyyd.,vuokra,
+478,Peltolammi,2h+k+kph+lasite...,kt,55.0,86000,1564,1968,4/6,on,,vuokra,C2018
+479,Linnainmaa,2h+k+s,kt,53.0,144000,2717,2000,3/3,on,hyvä,vuokra,F2013
+480,Kaukajärvi,2h+kt+s,kt,46.0,155000,3370,2015,4/7,on,hyvä,oma,C2013
+481,Kaleva,"2h, kt, kph/wc,...",kt,46.5,222000,4774,2017,8/8,on,hyvä,vuokra,C2013
+482,Hervantajärvi,2h+kt+kph+s+et+...,kt,40.0,177400,4435,2023,4/5,on,hyvä,vuokra,B2018
+483,Tammela,2h+k+kph+vh,kt,44.0,189900,4316,1994,1/2,ei,hyvä,vuokra,D2018
+484,Hakametsä,2h+kt+s,kt,56.5,210000,3717,2014,1/2,ei,hyvä,vuokra,B2018
+485,Tammela,"2h,k,kph,vh,p",kt,53.0,179000,3377,1970,3/7,on,,oma,F2013
+486,Hervanta,2h+k,kt,62.0,89000,1435,1976,2/5,on,hyvä,oma,F2013
+487,Keskusta,2h+kt+ 2 ranska...,kt,40.0,245000,6125,2022,6/9,on,hyvä,oma,B2018
+488,Hallila,2h+k+et+kph+s+t...,rt,56.0,153000,2732,1996,1/1,ei,hyvä,vuokra,
+489,Onkiniemi,2h+kk+s,kt,63.0,230000,3651,2006,2/4,on,,vuokra,D2013
+490,Hervanta,"2h,k,s,p",kt,65.0,92000,1415,1984,1/5,on,,oma,F2013
+491,Atala,"2h, k, kph, s, ...",kt,48.0,129000,2688,1991,2/2,ei,hyvä,oma,F2013
+492,Kaleva,2h + k,kt,49.0,169000,3449,1959,4/4,ei,,vuokra,F2013
+493,Keskusta,"2h,k,kph,2vh,las.p",kt,61.0,224000,3672,1967,6/6,on,hyvä,oma,D2018
+494,Hakametsä,"2h, kt, kph/wc,...",kt,43.5,168000,3862,2011,6/6,on,hyvä,vuokra,C2018
+495,Tammela,2h+k+kph+vh,kt,44.0,189900,4316,1994,2/2,ei,hyvä,vuokra,D2018
+496,Rahola,"2h,kt,s",kt,45.0,123000,2733,2014,3/5,on,,vuokra,B2018
+497,Lentävänniemi,2h+kk,kt,50.0,78000,1560,1977,,on,,oma,F2013
+498,Tammela,2h+k+kph+vh,kt,44.0,185000,4205,1994,2/2,ei,hyvä,vuokra,D2018
+499,Tammela,2h+kk,kt,45.5,149000,3275,1970,2/6,on,tyyd.,oma,D2007
+500,Olkahinen,2h+k+s,rt,46.0,108000,2348,1990,1/1,ei,,oma,
+501,Kaleva,2h+k+p,kt,53.0,204000,3849,1955,4/7,on,hyvä,vuokra,F2013
+502,Härmälänranta,2h+kt+parveke,kt,42.5,160000,3765,2021,1/12,on,hyvä,oma,A2018
+503,Niemenranta,2h+k+p,kt,47.5,185000,3895,2014,4/4,on,hyvä,,C2013
+504,Peltolammi,"2h, k, kph, par...",kt,54.0,64000,1185,1968,2/3,ei,,vuokra,F2018
+505,Hervanta,2h+k+p,kt,57.0,48000,842,1972,2/7,on,tyyd.,oma,E2013
+506,Ratinanranta,2h+k+kph+s+terassi,kt,62.0,386000,6226,2010,1/6,on,hyvä,,C2018
+507,Kalkku,2h+k,kt,64.0,105000,1641,1975,5/6,on,hyvä,oma,F2013
+508,Vuores,"2h, kt, kph, s,...",rt,49.0,180000,3673,2022,1/1,ei,hyvä,vuokra,B2018
+509,Pyynikki,"2h, k, s",kt,51.5,288000,5592,1988,5/7,on,hyvä,oma,F2013
+510,Vuores,2h+kt+s+kph+vh+...,kt,52.5,162000,3086,2013,2/5,on,hyvä,vuokra,B2018
+511,Rahola,2h+k+s+kph+et+l...,kt,58.0,138000,2379,2014,5/5,on,hyvä,vuokra,B2018
+512,Hervanta,2h+kk+kph+vh+la...,kt,48.0,77000,1604,1978,6/6,on,tyyd.,oma,D2018
+513,Härmälänranta,2H+kt+s+lasit. ...,kt,51.5,245000,4757,2019,12/12,on,hyvä,oma,
+514,Peltolammi,2 h + k + kph +...,kt,54.5,86102,1580,1967,4/6,on,tyyd.,vuokra,G2013
+515,Hervanta,2h+kt+kph+lasit...,kt,42.5,148000,3482,2019,4/8,on,hyvä,vuokra,C2013
+516,Kaakinmaa,"2h, k, kph/wc, ...",kt,51.5,212000,4117,1972,7/7,on,hyvä,oma,G2013
+517,Tampella,2h+kk+kh+s+p,kt,52.0,225500,4337,2008,2/13,on,hyvä,oma,D2013
+518,Amuri,2h+k+s,kt,55.0,182385,3316,1987,4/5,ei,tyyd.,oma,D2018
+519,Tampella,"2h,k,kph/wc,s,w...",kt,58.0,265000,4569,2012,4/8,on,hyvä,oma,D2013
+520,Peltolammi,2h+k+s,rt,60.5,165050,2728,1989,1/1,ei,hyvä,vuokra,D2013
+521,Haapalinna,2h+k+s+p,kt,61.0,140000,2295,1996,4/4,on,hyvä,oma,E2018
+522,Lentävänniemi,2h+k+kph+vh+las...,kt,63.0,118000,1873,1978,3/6,on,,oma,D2018
+523,Hervantajärvi,"2h, kt, kph, s, p",kt,44.0,187500,4261,2023,3/4,on,hyvä,vuokra,B2018
+524,Tammela,"2h, k, kph, vh,...",kt,53.0,195000,3679,1970,7/7,on,hyvä,oma,F2013
+525,Niemenranta,2h+k+s+p,kt,54.5,199000,3651,2013,5/8,on,hyvä,oma,B2018
+526,Vuores,2h+kt+s+lasitet...,kt,43.0,160000,3721,2017,2/2,ei,,vuokra,C2013
+527,Tammela,"2h,k,kph,s,parveke",kt,49.0,165000,3367,1983,1/2,ei,,oma,
+528,Kalkku,2h+k+kph/kh+s+wc,kt,48.0,82000,1708,1988,2/3,ei,hyvä,oma,D2007
+529,Hervanta,"2h,k",kt,54.0,66000,1222,1975,2/7,on,,oma,C2018
+530,Keskusta,"2h,kk,kph",kt,45.0,175000,3889,1965,1/6,on,,oma,F2018
+531,Annala,2h+kt+s+kph+vh+...,kt,50.5,135000,2673,2016,4/5,on,hyvä,vuokra,C2013
+532,Annala,2h+kt+s+kph+vh+...,kt,44.0,120000,2727,2016,3/5,on,hyvä,vuokra,C2013
+533,Hervanta,2h+k+kph/wc+las.p,kt,54.0,112500,2083,1978,2/7,on,hyvä,oma,F2018
+534,Saukonmäki,2h+k+kph/wc+par...,kt,57.0,185000,3246,1970,3/3,ei,,vuokra,C2018
+535,Lamminpää,"2h,kk",kt,45.0,143000,3178,2018,2/4,on,,vuokra,C2018
+536,Haukiluoma,"2h, kk, kph, la...",kt,44.0,140000,3182,2020,2/5,on,hyvä,,B2018
+537,Tammela,SUPERHIENO KAKS...,kt,42.0,185000,4405,1922,2/2,ei,hyvä,vuokra,C2018
+538,Tammela,"2h, k, kph, vh",kt,43.0,182000,4233,1922,2/2,ei,hyvä,vuokra,C2018
+539,Vuores,2h+kk+s,kt,46.5,158000,3398,2013,5/5,on,hyvä,vuokra,C2018
+540,Kaleva,"2h, k, kph/wc, ...",kt,48.0,175000,3646,1962,3/6,on,hyvä,vuokra,F2013
+541,Keskusta,"2h, k, kh, vh, p",kt,53.0,231500,4368,1974,8/8,on,hyvä,oma,F2013
+542,Hervanta,Senioritalo! 1 ...,kt,54.0,124000,2296,2007,1/5,on,hyvä,vuokra,F2013
+543,Annala,2h+k,kt,58.0,57000,983,1979,2/3,ei,tyyd.,oma,F2013
+544,Lielahti,2h+kt+kph+lasit...,kt,36.0,168000,4667,2019,5/8,on,hyvä,oma,B2018
+545,Vuores,"2h, k, kph, vh",kt,33.5,114000,3403,2017,3/6,on,hyvä,vuokra,C2013
+546,Tesoma,2h+k,kt,41.0,142000,3463,2018,1/8,on,hyvä,vuokra,C2018
+547,Keskusta,2h+kk+kph+vh+la...,kt,58.0,185000,3190,1963,2/7,on,,oma,F2018
+548,Leinola,"2h, k, s, psh, ...",rt,63.0,141000,2238,1977,1/1,ei,hyvä,oma,
+549,Ranta-tampella,"2h, kt",kt,39.0,261000,6692,2023,7/8,on,hyvä,,B2018
+550,Pyynikki,2h+kt+aulatila+...,kt,53.0,176000,3321,1925,1/2,ei,hyvä,vuokra,G2018
+551,Rautaharkko,2h+k+p,kt,56.0,67000,1196,1969,1/3,ei,,vuokra,F2013
+552,Linnainmaa,"2 h, kt, s, p",kt,57.5,196900,3424,2015,2/5,on,hyvä,oma,C2013
+553,Hervanta,"2h,k,vh,kph,s,l...",kt,59.0,152000,2576,2006,4/8,on,hyvä,vuokra,D2013
+554,Kaleva,"2h, k, kph, vh,...",kt,57.0,179000,3140,1958,7/7,on,hyvä,vuokra,C2007
+555,Hervanta,"2h,k,s",kt,61.0,132000,2164,1988,4/6,on,,oma,B2013
+556,Tesoma,"2h, kk",kt,48.0,63000,1313,1966,6/7,on,tyyd.,vuokra,D2018
+557,Härmälänranta,"2h,k,kph/wc,s,p...",kt,56.0,190000,3393,2011,4/5,on,,oma,D2013
+558,Lentävänniemi,2h+k+kph+vh+las...,kt,57.5,108850,1893,1975,3/7,on,hyvä,oma,E2018
+559,Tesoma,"2h, kk, kph / w...",kt,31.0,109001,3516,2018,2/8,on,hyvä,vuokra,C2018
+560,Härmälä,"2h, avok, kph, ...",kt,41.5,164000,3952,2019,4/4,on,hyvä,vuokra,B2018
+561,Amuri,2h+k+kph/wc+par...,kt,52.0,201000,3865,1946,4/5,on,,vuokra,G2013
+562,Amuri,2h+k+kph+vh+las...,kt,57.0,216000,3789,1972,2/7,on,hyvä,oma,E2013
+563,Viinikka,"2h,avokeitti...",kt,54.0,162000,3000,1941,1/2,ei,,vuokra,
+564,Lentävänniemi,"2h,k",kt,58.0,116000,2000,1975,2/6,on,,oma,E2018
+565,Ratina,2 h+ kt,kt,37.0,212000,5730,2015,6/6,on,hyvä,oma,C2013
+566,Hervanta,2h+k,kt,59.0,122000,2068,1983,5/5,on,hyvä,oma,D2018
+567,Keskusta,2h+kt+rt+kph,kt,66.0,210000,3182,1963,4/6,on,hyvä,oma,D
+568,Takahuhti,"2h, k, s, lasit.p",kt,59.5,121000,2034,1989,2/3,ei,hyvä,oma,E2013
+569,Hervanta,"2h,k,kph,las.p",kt,54.0,73000,1352,1975,1/7,on,tyyd.,oma,C2018
+570,Kaleva,2h+k+kph/wc,kt,39.0,156000,4000,1945,3/4,ei,,vuokra,D2018
+571,Niemenranta,SENIORIASUNTO 2...,kt,43.0,167000,3884,2017,4/5,on,hyvä,,C2013
+572,Olkahinen,"2h, k, kph, s, ...",rt,68.0,225000,3309,1988,1/1,ei,hyvä,oma,D2013
+573,Kaleva,2h+kk,kt,50.5,152000,3010,1956,3/6,on,tyyd.,vuokra,D2018
+574,Tammela,"2h, k, kph, vh, p",kt,51.0,199000,3902,1968,4/6,on,hyvä,oma,
+575,Linnainmaa,"2h, avok, s, la...",kt,47.0,115000,2447,1995,6/6,on,hyvä,vuokra,D2018
+576,Kaleva,2h+k+kph,kt,44.0,172000,3909,1948,2/4,ei,hyvä,oma,G2013
+577,Armonkallio,"2 h, kk, kh",kt,38.0,125000,3289,1967,1/3,ei,tyyd.,oma,F2013
+578,Härmälä,"2h, k, wc/kph, p",kt,52.5,92000,1752,1967,2/3,ei,tyyd.,vuokra,D2018
+579,Ranta-tampella,2h+kt,kt,37.5,212000,5653,2018,4/14,on,hyvä,,C2013
+580,Tammela,2h+kk,kt,52.0,185000,3558,1970,2/7,on,tyyd.,oma,D2018
+581,Tesoma,"2h, kk, kph, vh",kt,48.0,69000,1438,1968,1/4,on,hyvä,vuokra,F2013
+582,Hervanta,"2h,k",kt,53.0,133000,2509,1974,2/8,on,hyvä,oma,F2013
+583,Peltolammi,"2h, k, kph, vh,...",kt,54.0,85000,1574,1970,3/3,ei,,vuokra,F2013
+584,Härmälänranta,2H+KT+VH+KPH+S+...,kt,46.5,247000,5312,2022,3/6,on,hyvä,oma,A2018
+585,Iidesranta,2h+kk+s,kt,45.0,149467,3321,1996,2/4,on,tyyd.,oma,F2013
+586,Rahola,"2h, k, kph/wc, ...",kt,53.0,100000,1887,1964,1/7,on,hyvä,oma,E2018
+587,Hervanta,"2h, k, kph, s, ...",kt,56.0,72500,1295,1977,5/8,on,tyyd.,oma,E2013
+588,Koivistonkylä,"2h, kt",kt,43.0,169000,3930,2023,4/5,on,,vuokra,A2018
+589,Hatanpää,2h+k+s+kph+lasi...,kt,57.0,175000,3070,1999,1/4,on,,vuokra,
+590,Kaukajärvi,"2 h, k, ph + p",kt,50.5,92000,1822,1967,3/7,on,tyyd.,oma,E2013
+591,Härmälänranta,2h+k+et+s+kph+l...,kt,53.0,224000,4226,2016,5/6,on,,oma,C2013
+592,Lielahti,2h + kt + p,kt,50.5,229000,4535,2019,7/7,on,hyvä,vuokra,C2018
+593,Hervanta,"3h,k,s,kph,eril...",kt,80.0,163050,2038,1987,2/3,ei,hyvä,oma,C2007
+594,Hakametsä,3h+k+s+aula/tak...,rt,126.0,260000,2063,1989,,ei,hyvä,oma,C2018
+595,Amuri,"3 h, k, s, p",kt,69.0,230000,3333,1986,2/6,on,hyvä,oma,D2018
+596,Hervanta,"3h, k, kph, et,...",kt,70.0,138000,1971,1978,6/7,on,hyvä,oma,C2018
+597,Ala-pispala,"3h,k,s",rt,75.5,220000,2914,1984,1/2,ei,tyyd.,oma,D2018
+598,Tammela,"3h, k, kph, eri...",kt,69.5,254000,3655,1972,6/6,on,hyvä,oma,C2018
+599,Hervanta,"3h, k, kph, vh,...",kt,74.5,130000,1745,1976,3/8,on,hyvä,oma,C2018
+600,Ryydynpohja,3h+takkah+k+kph...,rt,89.0,198000,2225,1982,1/1,ei,hyvä,oma,F2013
+601,Lentävänniemi,3h+k+s,rt,77.0,205000,2662,2002,1/2,ei,,vuokra,C2018
+602,Hakametsä,3h+k+s+2wc+kph+...,rt,78.5,240000,3057,1986,1/1,ei,tyyd.,oma,D2013
+603,Ranta-tampella,3h+kt+s,kt,89.5,757545,8464,2019,5/9,on,hyvä,oma,C2013
+604,Pappila,3h+k+s/kph+wc+p...,kt,73.0,210000,2877,2001,2/2,ei,,vuokra,D2018
+605,Messukylä,"3h,k,s",rt,73.0,288000,3945,1990,1/1,ei,hyvä,vuokra,D2018
+606,Kaukajärvi,"3h, k, s, erill...",kt,80.0,190000,2375,2005,6/6,on,,oma,
+607,Tammela,3h+kt+s+kph+vh+...,kt,72.0,435000,6042,2022,9/10,on,hyvä,oma,C2018
+608,Härmälänranta,"2 mh, oh, k, kp...",kt,82.0,265000,3232,2011,2/5,on,hyvä,,D2013
+609,Lentävänniemi,3h+k+p,kt,73.0,116500,1596,1974,3/7,on,hyvä,oma,D2018
+610,Hervanta,"3h, kph / s, er...",kt,75.0,106250,1417,1989,3/6,on,tyyd.,oma,F2013
+611,Tesoma,3h+k+parveke,kt,70.0,87629,1252,1977,2/3,ei,tyyd.,vuokra,C2018
+612,Rahola,"3h, k, kph, s, ...",kt,73.0,175000,2397,2012,2/5,on,,vuokra,D2013
+613,Hatanpää,"3h, kk, kph, s,...",kt,59.0,227000,3847,2002,4/6,on,,oma,C2018
+614,Leinola,"3h, k, kph, s, ...",kt,63.0,157000,2492,2003,2/4,on,hyvä,vuokra,C2018
+615,Hakametsä,3h+k+kph/wc+vh+...,kt,69.0,215000,3116,1965,1/2,ei,,oma,C2018
+616,Hervanta,"3h, k, sauna/kp...",kt,79.0,125000,1582,1983,2/7,on,hyvä,oma,B2018
+617,Hervanta,3h+k,kt,70.5,83000,1177,1979,1/5,on,hyvä,oma,D2018
+618,Hervanta,3h+k+kph+p,kt,71.5,75000,1049,1977,5/5,on,tyyd.,oma,F2013
+619,Lukonmäki,"3h, k, kph/wc, ...",rt,82.5,123000,1491,1978,2/2,ei,tyyd.,oma,D2007
+620,Kaleva,"3h, k, kph, las.p",kt,55.0,196000,3564,1964,2/9,ei,hyvä,vuokra,E2018
+621,Ikuri,"3, k, kph, vh, ...",kt,76.0,58000,763,1981,2/3,ei,hyvä,vuokra,E2013
+622,Kaakinmaa,3h+k+kph/wc+vh+...,kt,64.0,203000,3172,1972,1/6,on,,oma,E2018
+623,Tammela,3h+k+kh+p,kt,71.0,230500,3246,1973,5/6,on,,oma,D2018
+624,Lukonmäki,3h+k+p,kt,76.5,127000,1660,1980,3/3,ei,hyvä,oma,D2018
+625,Ryydynpohja,3h+k+kph+s+wc+v...,rt,78.0,216571,2777,1979,1/1,ei,hyvä,oma,C2018
+626,Hirvikallio,"3h, k, kph/khh,...",rt,84.0,242000,2881,2011,1/2,ei,hyvä,vuokra,D2018
+627,Villilä,3h+k+kph+s+lasi...,kt,56.0,168000,3000,2013,1/4,on,hyvä,vuokra,B2018
+628,Keskusta,"3h,kt",kt,57.0,360000,6316,1961,7/7,on,,oma,F2013
+629,Keskusta,"3h,k,kph",kt,67.0,224000,3343,1958,3/4,on,hyvä,oma,D2018
+630,Tammela,"3h, k, khh, kph...",kt,80.0,193000,2413,1982,1/6,on,tyyd.,oma,C2018
+631,Hervanta,"3h, k, kph/s, e...",rt,80.0,199000,2488,1983,1/1,ei,,oma,
+632,Keskusta,"3h, kt, s",kt,101.0,1085900,10751,2024,7/8,on,hyvä,oma,B2018
+633,Keskusta,"3h, k, kph, eri...",kt,105.5,549000,5204,2008,6/7,on,hyvä,oma,C2013
+634,Lentävänniemi,3h+k+kph+2xvh+et,kt,73.0,146000,2000,1972,4/6,on,,oma,E2018
+635,Tammela,"3h, k, kph, vh, p",kt,78.5,225000,2866,1970,1/7,on,hyvä,oma,D2018
+636,Tampella,"3h, k, s",kt,79.0,400000,5063,2003,4/6,on,,oma,C2018
+637,Tasanne,"3h,k,s,ph,vh,er...",rt,82.0,160000,1951,1986,1/1,ei,hyvä,oma,E2013
+638,Hatanpää,"2-3h, k, kph, w...",kt,86.5,237000,2740,2000,2/5,on,hyvä,vuokra,F2013
+639,Hervanta,"3h, k, kph, ph,...",rt,81.5,143000,1755,1981,1/1,ei,tyyd.,oma,D2018
+640,Kaleva,"3h,k",kt,73.0,259000,3548,1960,2/3,ei,hyvä,vuokra,D2018
+641,Atala,"3h, k, s",rt,80.0,172500,2156,1993,1/1,ei,tyyd.,oma,B2018
+642,Hyhky,3h+kt+kh,kt,58.0,191000,3293,2015,1/2,ei,hyvä,oma,C2013
+643,Hervantajärvi,3h + kt,kt,62.0,218000,3516,2021,4/5,on,hyvä,vuokra,B2018
+644,Linnainmaa,"3h,k,s",kt,81.0,120000,1481,1995,3/6,on,tyyd.,vuokra,D2018
+645,Amuri,3h+k+rk+kh,kt,64.0,213766,3340,1937,3/6,on,hyvä,oma,D2018
+646,Hervanta,"3h, k, sauna, v...",kt,74.0,125000,1689,1979,4/5,on,hyvä,oma,D2018
+647,Amuri,"3h, k, kph/wc, ...",kt,76.0,265000,3487,1968,4/7,on,,oma,F2013
+648,Hervanta,3h+k+kh+p,kt,72.0,83000,1153,1982,1/6,on,tyyd.,oma,D2018
+649,Lentävänniemi,Putkiremontoitu...,kt,72.5,105000,1448,1973,2/3,ei,tyyd.,oma,F2018
+650,Härmälä,"3h, k, kph, s, ...",kt,65.0,232500,3577,2012,5/5,on,,oma,D2013
+651,Tammela,3h+k+ph+vh+lasi...,kt,69.0,215000,3116,1971,1/6,on,,oma,
+652,Tahmela,3h+k+s,rt,82.0,246000,3000,1980,2/2,ei,tyyd.,oma,
+653,Hervanta,3h+k+s,kt,74.5,140000,1879,1985,3/6,on,hyvä,oma,B2018
+654,Atala,3h+k+s,rt,80.0,172000,2150,1989,1/1,ei,huono,oma,D2013
+655,Keskusta,3h+kt+s+2parv,kt,76.0,335000,4408,2022,9/9,on,hyvä,vuokra,B2018
+656,Niemenranta,3h+kt+p,kt,53.0,189000,3566,2018,2/6,on,hyvä,,C2013
+657,Linnainmaa,3h+k+s,kt,72.0,140000,1944,1980,1/3,ei,hyvä,oma,E2013
+658,Järvensivu,3h + k + vh + k...,kt,67.0,235000,3507,2007,3/5,on,,vuokra,D2018
+659,Keskusta,"3h,k,s,p",kt,78.0,275000,3526,1972,2/5,on,,oma,E2013
+660,Tammela,"3h, k, kph, wc,...",kt,73.5,229164,3118,1980,1/6,on,hyvä,oma,F2013
+661,Kaukajärvi,3h + k + vh + l...,kt,75.0,142000,1893,1966,1/3,ei,hyvä,oma,E2013
+662,Hervanta,"3h,k,s,vh,p",kt,75.0,205000,2733,2006,7/8,on,,vuokra,D2013
+663,Atala,3h+k+et+wc+kph+...,rt,80.0,192300,2404,1985,1/1,ei,,oma,D2018
+664,Hervanta,3h + k,kt,75.5,92500,1225,1979,1/6,on,hyvä,oma,G2013
+665,Lamminpää,3h+k+s,rt,83.0,140000,1687,1984,1/1,ei,tyyd.,oma,C2018
+666,Ryydynpohja,"3h, k, s, takka...",rt,84.0,198000,2357,1979,1/1,ei,hyvä,oma,D2018
+667,Niemenranta,"3h, k, vh, wc, ...",kt,75.5,319000,4225,2022,1/7,on,hyvä,oma,B2018
+668,Niemenranta,3h+k+kph+s+lasi...,kt,70.0,210000,3000,2014,3/6,on,hyvä,oma,B2018
+669,Hervantajärvi,"3h, k, kph, s, ...",rt,71.0,262000,3690,2022,-1/2,ei,hyvä,vuokra,B2018
+670,Linnainmaa,3h+k+kph/s+wc+p,kt,76.0,132000,1737,2002,1/3,on,,vuokra,
+671,Kaipanen,3k+k +s+kph +1 ...,rt,75.0,240000,3200,2015,2/2,ei,hyvä,vuokra,C2013
+672,Kaarila,"3h, k, kph, eri...",kt,79.0,152000,1924,1966,1/3,ei,hyvä,oma,E2018
+673,Atala,"3h,k, s",rt,83.0,180000,2169,1992,1/2,ei,,oma,
+674,Kaleva,"3h, k, kph",kt,62.0,225000,3629,1952,1/3,ei,hyvä,vuokra,
+675,Lentävänniemi,3h+k+kph+lasite...,kt,76.0,145000,1908,1977,5/6,on,hyvä,oma,
+676,Peltolammi,"3h, k, kph, vh2...",kt,68.0,74000,1088,1970,2/3,ei,tyyd.,vuokra,F2013
+677,Hirvikallio,"3h, k, kph/s, e...",rt,89.0,238000,2674,2013,-1/2,ei,hyvä,vuokra,C2018
+678,Tesoma,3h+k,kt,65.5,84000,1282,1967,1/3,ei,hyvä,vuokra,C2018
+679,Pyynikintori,"3h, k, kph, p",kt,72.0,181000,2514,1960,4/4,on,tyyd.,vuokra,F2013
+680,Kaleva,"3h, k, kph/wc, ...",kt,57.0,165000,2895,1963,6/6,on,hyvä,vuokra,F2013
+681,Tasanne,"3h, k, s",rt,76.5,180000,2353,1982,1/1,ei,hyvä,oma,E2018
+682,Linnainmaa,"3h, k, s/kph, w...",kt,77.0,150500,1955,1984,2/3,ei,tyyd.,oma,D2018
+683,Lapinniemi,3h+k+kph+s+eril...,kt,77.0,348000,4519,1999,1/7,on,,oma,D2018
+684,Pispala,3h + k + kph/s ...,rt,76.0,325000,4276,2006,1/2,ei,,oma,
+685,Pispala,"3h,k,wc, aula, ...",rt,79.0,275000,3481,1989,1/2,ei,,oma,D2018
+686,Kaukajärvi,3h+k+oleskeluti...,rt,87.0,200000,2299,2002,2/2,ei,tyyd.,oma,
+687,Pappila,"3h, k, s, piha",kt,59.0,194000,3288,2001,1/2,ei,,vuokra,F2013
+688,Villilä,"3h,k,s",rt,80.0,215000,2688,1985,1/1,ei,tyyd.,oma,C2018
+689,Leinola,"3h,k,s",rt,75.0,147000,1960,1989,1/1,ei,,vuokra,
+690,Kaakinmaa,"3h, k, s, khh, ...",kt,88.0,265000,3011,1981,4/7,on,hyvä,oma,C2018
+691,Epilä,3h+k+p,kt,75.5,124000,1642,1971,1/2,ei,hyvä,oma,
+692,Kissanmaa,"2h, k, kph x 2,...",rt,80.0,250000,3125,1963,1/2,ei,,vuokra,
+693,Kaleva,3h+k+kph+et+vh+...,kt,62.0,187000,3016,1961,4/6,on,,vuokra,F2013
+694,Hervanta,"3h,k,et,khp/wc,...",kt,74.5,94500,1268,1975,4/6,on,hyvä,oma,D2018
+695,Hervanta,"3h, k, s, kph, ...",kt,72.0,131000,1819,1987,7/8,on,hyvä,oma,F2013
+696,Kaleva,"3h, k, ruok. ti...",kt,66.0,165000,2500,1960,1/2,ei,,vuokra,G2013
+697,Hervanta,3h+k+kph+vh,kt,74.0,87000,1176,1979,2/5,on,,oma,D2018
+698,Muotiala,3h + k +s,kt,66.0,201000,3045,2004,1/3,on,,vuokra,
+699,Turtola,"3h, k, s, kph/w...",rt,69.0,285000,4130,2011,1/3,ei,hyvä,oma,D2007
+700,Lentävänniemi,"3h, k, kph, vh, p",kt,74.5,112000,1503,1975,1/7,on,tyyd.,oma,D2018
+701,Villilä,"3h, k, s, psh/w...",rt,79.5,275000,3459,2004,1/2,ei,hyvä,oma,D2007
+702,Epilä,"3h, k, rt, th, ...",rt,82.0,204500,2494,1986,2/2,ei,hyvä,oma,E2013
+703,Onkiniemi,"3h,k,kph,las.p",kt,72.0,190000,2639,1978,4/7,on,tyyd.,oma,F2013
+704,Tammela,3(4)h+k+s,kt,86.0,315000,3663,1941,,on,,vuokra,
+705,Keskusta,3h+k,kt,68.0,317000,4662,1969,5/7,on,hyvä,oma,G2013
+706,Kaukajärvi,3h+k+p,kt,78.0,138000,1769,1965,2/3,ei,,oma,
+707,Janka,3h+k+kph+wc+las...,kt,78.5,190000,2420,2004,1/4,on,hyvä,vuokra,E2018
+708,Amuri,3h+k,kt,74.0,225000,3041,1967,1/3,ei,tyyd.,oma,D2018
+709,Ratinanranta,"3h, k, s, erill...",kt,96.0,391000,4073,2010,1/5,on,hyvä,,C2018
+710,Härmälä,"3h, k, kph/wc, ...",kt,63.5,111500,1756,1969,1/3,ei,tyyd.,vuokra,F2013
+711,Janka,"3h, k, kph, s, ...",kt,73.0,185000,2534,2004,3/4,on,,vuokra,E2018
+712,Hervanta,"3h,k,kph,vh+las...",kt,77.5,95000,1226,1981,5/5,on,hyvä,oma,F2013
+713,Hallila,3h+k+s,kt,79.0,190000,2405,1991,5/5,on,,vuokra,E2018
+714,Hyhky,3+k+s+kph+erill...,rt,82.5,235000,2848,2009,2/2,ei,hyvä,oma,C2018
+715,Hervanta,3h+k+s,kt,78.0,95000,1218,1986,4/5,on,,oma,
+716,Atala,"3h, k, kph, s, ...",rt,80.0,169000,2113,1991,-1/2,ei,hyvä,oma,E2013
+717,Viiala,"3h, k, s, kph, ...",kt,81.0,149000,1840,2000,3/3,on,tyyd.,vuokra,F2013
+718,Keskusta,"3h, k, halli, ...",kt,103.5,375000,3623,1901,4/5,on,tyyd.,oma,G2013
+719,Härmälänranta,3h+k+kph/s+vh,kt,60.0,210000,3500,2017,2/8,on,hyvä,,C2013
+720,Keskusta,"3h, k",kt,69.0,210000,3043,1957,3/7,on,tyyd.,oma,E2013
+721,Lukonmäki,"3h, k, p",kt,77.0,122000,1584,1980,2/3,ei,,oma,D2018
+722,Kaukajärvi,"3h, k, sauna, l...",kt,78.0,218000,2795,2015,3/7,on,hyvä,oma,C2013
+723,Keskusta,"3h, k, kph, wc, vh",kt,90.0,255000,2833,1927,3/7,on,hyvä,vuokra,F2013
+724,Hatanpää,"3h, k, työ...",kt,71.0,242000,3408,1999,3/4,on,hyvä,oma,E2018
+725,Härmälänranta,3h+kt+r+kht+s,kt,97.0,425000,4381,2015,1/5,on,hyvä,,C2018
+726,Ikuri,3h+k+s,rt,78.0,176000,2256,1980,1/1,ei,hyvä,vuokra,
+727,Kaarila,3h+k+et+2xwc+kp...,rt,87.0,184500,2121,1982,1/2,ei,,oma,C2018
+728,Olkahinen,"3 h, k, kph, s,...",rt,76.0,193000,2539,1983,1/1,ei,hyvä,vuokra,
+729,Lentävänniemi,"3h, k, kph, las.p",kt,76.0,131000,1724,1971,2/3,ei,tyyd.,oma,D2018
+730,Ruotula,3h+k+kph+vh+las.p.,kt,76.0,134000,1763,1966,3/3,ei,hyvä,vuokra,D2018
+731,Tammela,3h+kk,kt,50.0,165000,3300,1939,4/6,on,tyyd.,oma,G2013
+732,Härmälänranta,"3h, k, s/kph/wc...",kt,81.5,277000,3399,2011,3/5,on,hyvä,,D2013
+733,Keskusta,3h+kt+s,kt,76.0,612000,8053,2025,5/9,on,hyvä,oma,B2018
+734,Tampella,"3h, k, kph/s, e...",kt,78.0,359000,4603,2008,9/12,ei,hyvä,oma,D2013
+735,Ryydynpohja,"3h, k, kph/saun...",rt,80.5,208000,2584,1999,1/1,ei,hyvä,oma,D2018
+736,Tammela,"3h, k, kph, s, ...",kt,66.5,165000,2481,1981,2/6,on,tyyd.,oma,D2018
+737,Halkoniemi,"3h, k, kph, s, ...",kt,87.5,305500,3491,2018,2/7,on,hyvä,vuokra,C2013
+738,Hakametsä,"3h,k,kph,parveke",kt,71.0,212000,2986,1972,5/5,on,hyvä,oma,E2013
+739,Keskusta,3h+kt+s+terassi,kt,99.5,500000,5025,2022,9/9,on,hyvä,vuokra,B2018
+740,Lintuhytti,3 huonetta + ke...,kt,69.0,227000,3290,2020,1/2,ei,hyvä,vuokra,B2018
+741,Kaleva,3h+k+parveke (Y...,kt,73.5,174000,2367,1958,5/7,on,tyyd.,vuokra,G2013
+742,Kyttälä,"3-4h, k, kph, s",kt,120.5,320000,2656,1927,-1/3,ei,hyvä,oma,
+743,Hervanta,"3h, k, kph/wc, ...",kt,74.5,105000,1409,1979,8/8,on,hyvä,oma,F2013
+744,Rahola,"3h,k",kt,76.0,138500,1822,1972,4/5,on,,oma,D2018
+745,Vuores,3h+k+et+wc+kph+...,kt,76.0,212000,2789,2013,2/5,on,hyvä,vuokra,C2018
+746,Finninmäki,"3h, k, kph, s, ...",rt,76.5,216000,2824,1983,1/1,ei,hyvä,oma,E2013
+747,Amuri,3h+k+kph+wc+p,kt,89.5,318000,3553,1939,7/7,on,tyyd.,vuokra,E2013
+748,Kaleva,"3h, k, kph/wc, ...",kt,61.5,248000,4033,1963,6/6,on,hyvä,vuokra,F2013
+749,Petsamo,"3h, k, s, tkh, ...",rt,90.0,298000,3311,1926,,ei,hyvä,vuokra,D2018
+750,Härmälänranta,3h + kt + s,kt,63.0,261000,4143,2021,4/7,on,,oma,A2018
+751,Olkahinen,3h+k+s,rt,58.0,160000,2759,1995,1/1,ei,hyvä,vuokra,D2018
+752,Kaakinmaa,3h+k+kph+WC+vh,kt,73.5,290000,3946,1969,3/7,on,tyyd.,oma,F2013
+753,Hallila,3h+k,rt,75.0,185558,2474,1992,1/1,ei,,vuokra,E2013
+754,Atala,3h+k+s,rt,78.0,219000,2808,2003,1/2,ei,,oma,
+755,Ruotula,3h+k+p,kt,76.0,105000,1382,1966,3/3,ei,tyyd.,vuokra,D2018
+756,Onkiniemi,"3h, k, vh, er.w...",kt,84.5,308000,3645,2004,2/3,on,hyvä,vuokra,F2013
+757,Niemenranta,SENIORIASUNTO 3...,kt,67.0,250000,3731,2017,5/5,on,hyvä,,C2013
+758,Kaukajärvi,"3h, k, kph, eri...",kt,72.0,143500,1993,1968,3/4,ei,hyvä,oma,C2018
+759,Janka,3h+kk+s+kph/wc+...,kt,78.0,202500,2596,2004,4/4,on,hyvä,vuokra,F2013
+760,Hyhky,3h+k+s,kt,72.5,159500,2200,1989,2/2,ei,tyyd.,oma,F2013
+761,Härmälänranta,"3h,k,kph,s,vh,l...",kt,65.0,269000,4138,2017,4/6,on,hyvä,,C2013
+762,Tammela,"3h, k, vh, kph/...",kt,80.0,315000,3938,1974,7/7,on,hyvä,oma,C2018
+763,Tammela,3h+k+s,kt,71.0,360000,5070,2018,4/7,on,,oma,C2018
+764,Takahuhti,"3h,k,vh,wc,kph,s",rt,80.0,179500,2244,1983,1/1,ei,tyyd.,oma,E2013
+765,Pohtola,3h+k+kph+s+vh+w...,kt,64.0,129000,2016,1990,2/2,ei,,oma,F2013
+766,Juhannuskylä,"3h,k,kph",kt,75.0,310000,4133,1910,,on,huono,oma,
+767,Ranta-tampella,3h+k+s,kt,63.0,340761,5409,2024,11/14,on,hyvä,vuokra,B2018
+768,Pappila,3h+k+kph/wc+vh+...,kt,68.0,158000,2324,1969,4/4,on,,oma,
+769,Halkoniemi,"3h,k,s",kt,72.0,368000,5111,2019,5/6,on,hyvä,vuokra,C2013
+770,Ranta-tampella,3h+kt+s,kt,72.0,482000,6694,2018,2/2,on,hyvä,,C2013
+771,Härmälänranta,"2-3h, k, vh, kp...",kt,79.5,428000,5384,2015,5/5,on,hyvä,,C2018
+772,Tammela,"3h, k, kph, s, ...",kt,63.5,318000,5008,2018,6/12,on,hyvä,oma,C2013
+773,Kaleva,"3h, k, khh/kph,...",kt,77.0,240000,3117,1993,1/7,on,hyvä,oma,E2013
+774,Niemenranta,3h+k+kph+s+khh+...,kt,83.0,358000,4313,2016,6/8,on,hyvä,vuokra,B2018
+775,Pyynikki,"3h,k,s,,kph,p,v...",kt,77.0,380000,4935,2010,6/7,on,,oma,D2013
+776,Atala,"3h, k, kph, s, p",kt,66.0,173000,2621,2005,2/4,on,hyvä,oma,C2018
+777,Tammela,"3h, k, kh, parveke",kt,59.5,173000,2908,1955,3/6,on,tyyd.,vuokra,D2018
+778,Kaleva,3h+k+wc/kph+las...,kt,62.0,206000,3323,1964,1/6,on,hyvä,vuokra,
+779,Irjala,"3h, k, s",kt,71.0,129000,1817,1982,1/3,ei,,oma,F2013
+780,Lielahti,"3h,k,kph,kh-til...",kt,72.0,312500,4340,2019,7/8,on,hyvä,oma,B2018
+781,Viiala,"3h,k,kph,s,vh,e...",kt,79.0,204000,2582,1988,,ei,,oma,D2018
+782,Keskusta,3h+k+p,kt,69.0,249000,3609,1959,3/6,on,tyyd.,oma,F2013
+783,Lamminpää,"3h,k,s",rt,81.0,190000,2346,1988,1/1,ei,,oma,
+784,Vuores,3h+k+s+p,kt,80.0,247000,3088,2017,2/2,ei,hyvä,vuokra,C2013
+785,Vuores,3h+kt+kph/wc+s+...,rt,63.0,220000,3492,2017,1/1,ei,,vuokra,C2013
+786,Keskusta,"3h, k, wc, parveke",kt,62.0,197000,3177,1952,3/3,ei,,vuokra,
+787,Kaleva,"3h, k, kph",kt,56.0,229000,4089,1959,1/4,ei,hyvä,vuokra,F2013
+788,Keskusta,3h+kt,kt,59.5,535000,8992,2025,7/9,on,hyvä,oma,B2018
+789,Peltolammi,"3h,avokeitti...",kt,70.0,117821,1683,1970,3/6,on,hyvä,vuokra,F2013
+790,Keskusta,"3h, k, s, kph, ...",kt,86.5,378000,4370,1999,6/8,on,hyvä,oma,
+791,Kaleva,3h+k+p,kt,70.0,170000,2429,1959,2/6,on,tyyd.,vuokra,F2013
+792,Keskusta,"3h,k",kt,80.0,315000,3938,1957,,on,,oma,E2018
+793,Vuores,3h+k+s,kt,67.5,211500,3133,2014,2/2,ei,hyvä,vuokra,C2018
+794,Hervanta,"3h, k, rt, wc, ...",rt,74.5,181000,2430,1989,1/1,ei,hyvä,vuokra,E2013
+795,Villilä,"3h, k, kph, s, p.",kt,66.5,166000,2496,2014,3/5,on,hyvä,vuokra,B2018
+796,Multisilta,"3h,k",kt,73.0,92000,1260,1972,,on,,vuokra,G2013
+797,Pohtola,"3h,k,ph,lasit.p",kt,78.0,147500,1891,1972,2/3,ei,hyvä,oma,F2013
+798,Villilä,"3h, k, kph / s,...",rt,80.0,245000,3063,2007,1/2,ei,hyvä,vuokra,C2018
+799,Hallila,"3h,k,s",rt,80.0,254000,3175,1996,,ei,hyvä,vuokra,D2018
+800,Hervanta,"3h, k, kph, s, ...",rt,81.5,196000,2405,1989,1/1,ei,hyvä,vuokra,C2018
+801,Hervanta,3h+k+kph/wc+vh+...,kt,71.0,80000,1127,1978,1/8,on,,oma,F2013
+802,Tammela,"3 h, k, kh, p",kt,72.5,160000,2207,1980,2/6,on,huono,oma,F2013
+803,Lielahti,3h+k+kph+s+eril...,kt,76.0,306000,4026,2019,5/8,on,,oma,C2013
+804,Ranta tampella,3h+k+s,kt,84.0,460200,5479,2024,7/14,on,hyvä,vuokra,B2018
+805,Lintuhytti,"3h, k, 2 kph, s...",rt,78.0,242000,3103,2019,-1/2,ei,hyvä,vuokra,B2018
+806,Hakametsä,"3h,k,kph,s,p,ak",rt,78.0,253000,3244,1986,1/2,ei,hyvä,oma,D2013
+807,Lentävänniemi,"3h,kk,s, las.pa...",kt,65.0,213000,3277,2013,4/8,on,,vuokra,C2013
+808,Härmälänranta,3h+k+s,kt,66.5,227500,3421,2017,4/5,on,hyvä,,C2013
+809,Niemenranta,"3h, k, khh/kph,...",kt,79.5,290000,3648,2013,7/8,on,hyvä,oma,C2013
+810,Viiala,"3h,avokeitti...",kt,72.0,180000,2500,2000,1/2,ei,hyvä,vuokra,F2013
+811,Villilä,"3h, k, wc, ph + s",rt,80.0,261500,3269,1984,1/1,ei,hyvä,oma,D2013
+812,Vehmainen,3h+k+wc+et+s+kp...,rt,92.0,320000,3478,2017,1/2,ei,hyvä,oma,C2013
+813,Peltolammi,3h+k+s,kt,70.5,153000,2170,1990,1/2,ei,hyvä,vuokra,G2013
+814,Hervanta,"3h,k,kph,vh,las...",kt,73.0,105000,1438,1977,2/8,on,,oma,C2018
+815,Armonkallio,"3h,k,kph,p",kt,56.0,187000,3339,1968,2/5,on,tyyd.,oma,G2013
+816,Hervanta,"3 h, kt, s, p",kt,64.5,190000,2946,2013,5/6,on,hyvä,vuokra,C2013
+817,Vuores,3h+kt+s+p,kt,69.5,198900,2862,2013,3/5,on,hyvä,vuokra,C2018
+818,Hervanta,3h+k+kph+s+eril...,kt,78.5,149000,1898,1990,3/5,on,tyyd.,oma,E2013
+819,Koivistonkylä,"3h, kt, s",kt,65.0,240000,3692,2023,3/5,on,hyvä,vuokra,A2018
+820,Lintuhytti,"3h, kt, rt, s, ...",rt,71.0,257000,3620,2017,1/1,ei,hyvä,vuokra,C2013
+821,Härmälä,3h+k+kph+s+lasi...,kt,69.0,270000,3913,2020,1/2,ei,hyvä,vuokra,B2018
+822,Hervanta,"3h, k, kph, s, ...",kt,74.5,153000,2054,1985,4/6,on,hyvä,oma,B2018
+823,Onkiniemi,3h+k+vh+khh+s+p...,kt,75.0,270000,3600,1984,2/3,ei,tyyd.,oma,F2013
+824,Hyhky,3h+k+et+kph+s+w...,kt,76.0,229000,3013,2006,2/2,ei,hyvä,oma,C2018
+825,Keskusta,"3h,k,kph,erilli...",kt,76.0,399000,5250,1969,4/8,on,hyvä,oma,E2013
+826,Linnainmaa,"3h, k, kph, wc",kt,81.0,157000,1938,1995,2/6,on,hyvä,vuokra,D2018
+827,Kaakinmaa,3h+k+s,kt,87.0,336000,3862,2006,4/7,on,hyvä,vuokra,D2013
+828,Huikas,3h+k+s+khh+vh+t...,rt,89.0,264000,2966,1991,1/2,ei,,oma,F2018
+829,Vuores,"3h,k,s,kph,eril...",rt,90.0,358000,3978,2016,1/1,ei,hyvä,vuokra,C2013
+830,Pappila,3h+k+s,kt,59.0,192000,3254,2001,1/2,ei,,vuokra,D2018
+831,Kissanmaa,3h+k+kph+vh+ull...,rt,75.0,165000,2200,1955,2/2,ei,tyyd.,vuokra,D2018
+832,Tammela,"3h, kt, s",kt,75.0,397969,5306,2023,7/12,on,hyvä,,B2018
+833,Atala,3h+k+kph+s+vh+2...,rt,83.0,209000,2518,1992,2/2,ei,hyvä,oma,D2013
+834,Tesoma,3h+k,kt,64.0,90000,1406,1967,2/7,on,hyvä,vuokra,D2018
+835,Vehmainen,"3h, k, kph, eri...",rt,75.0,217000,2893,2003,1/1,ei,hyvä,vuokra,E2018
+836,Pyynikki,3H+KT+2P (yhti&...,kt,76.0,430000,5658,2022,2/4,on,hyvä,oma,
+837,Ratinanranta,3h+k+kph+s+wc+v...,kt,85.0,520000,6118,2012,5/8,on,hyvä,vuokra,C2018
+838,Risso,3h+k+tk+et+kph+s,rt,87.0,268000,3080,2013,2/2,ei,hyvä,vuokra,
+839,Tampella,"3h, k, s",kt,75.0,320000,4267,2000,7/8,on,,oma,F2013
+840,Pyynikki,"3, k, s, p",kt,73.5,273000,3714,1989,1/7,on,tyyd.,oma,F2013
+841,Tammela,3h+kt+s,kt,79.0,468800,5934,2023,7/7,on,hyvä,vuokra,B
+842,Hämeenpuisto,"3h,k,ruokailuh,...",kt,83.0,270000,3253,1957,,on,,oma,G2013
+843,Tammela,"3h, k, kph, s, ...",kt,76.5,455000,5948,1978,7/7,on,hyvä,oma,C2018
+844,Hervanta,3h+k+kph+vaateh...,kt,75.5,170557,2259,1979,8/8,on,hyvä,oma,D2018
+845,Lentävänniemi,"3h,kk,s",kt,60.0,180000,3000,2013,4/8,on,hyvä,vuokra,C2013
+846,Pyynikki,"2-3h,k,ph,wc,p",kt,69.5,263000,3784,1941,3/6,on,hyvä,oma,F2013
+847,Linnainmaa,"3h, k, kph / wc...",kt,70.0,172000,2457,1999,2/5,on,hyvä,vuokra,
+848,Tammela,"3h, k, kph, et,...",kt,71.0,235000,3310,1973,3/7,on,hyvä,oma,D2018
+849,Härmälä,"3h, k, kph/wc, p",kt,67.5,118000,1748,1967,1/3,ei,tyyd.,vuokra,D2018
+850,Atala,"3h, k, s, psh, ...",rt,75.5,222000,2940,2005,-1/2,ei,hyvä,oma,D2013
+851,Holvasti,3h+k+tk+et+2xvh...,rt,78.0,224000,2872,1996,1/1,ei,,vuokra,D2018
+852,Holvasti,"3h, k, kph, kht...",rt,80.0,234000,2925,1994,1/1,ei,hyvä,oma,D2018
+853,Korkinmäki,"3 h, k, s, ph, ...",rt,84.0,189000,2250,1996,2/2,ei,tyyd.,oma,C2018
+854,Linnainmaa,3h+k+tk+vh+et+w...,rt,84.0,215000,2560,1982,1/1,ei,hyvä,oma,D2018
+855,Kaarila,3h+k+s,rt,87.0,207000,2379,1982,2/2,ei,tyyd.,oma,C2018
+856,Hallila,3h+k+et+kph+s+w...,rt,74.0,225000,3041,1993,1/1,ei,hyvä,vuokra,D2013
+857,Amuri,3h+k,kt,78.0,238000,3051,1968,6/9,on,,oma,D2018
+858,Hervanta,"3 h, kt, s, p",kt,63.0,190000,3016,2015,3/5,on,hyvä,vuokra,C2013
+859,Olkahinen,3h+k+ph/s+erill...,rt,77.0,175000,2273,1990,-1/2,ei,hyvä,vuokra,
+860,Kaukajärvi,"3h, k, kph, s, ...",kt,80.0,202000,2525,2005,3/6,on,hyvä,oma,D2013
+861,Linnainmaa,3h+k+s,kt,60.0,195000,3250,2011,3/5,on,,oma,C2013
+862,Haukiluoma,3h+k+kph+s+eril...,rt,79.0,165000,2089,1984,1/1,ei,,vuokra,E2013
+863,Leinola,"3h,k,kph,2khh,s...",rt,84.0,208000,2476,1984,1/2,ei,hyvä,oma,E2013
+864,Härmälä,"3 (4)h, k, ph+ s",kt,87.0,185000,2126,1937,1/2,ei,hyvä,vuokra,F2018
+865,Kaleva,"3h, k",kt,80.5,235500,2925,1965,6/9,on,hyvä,vuokra,F2013
+866,Lukonmäki,3h+k+takkah+s+k...,rt,85.0,185000,2176,1984,2/2,ei,hyvä,oma,D2018
+867,Janka,3h+kk+s,kt,78.0,185000,2372,2004,4/4,on,hyvä,vuokra,F2013
+868,Haukiluoma,"3h,k,kph,s,wc,v...",rt,82.0,172500,2104,1985,1/1,ei,hyvä,vuokra,
+869,Ristimäki,"3h,k,s,kph/wc,e...",rt,85.0,216000,2541,1981,-1/2,ei,hyvä,vuokra,C2018
+870,Rautaharkko,3h+k,kt,76.0,140000,1842,1973,1/2,ei,,vuokra,D2018
+871,Lentävänniemi,3h+k+kph+2vh+la...,kt,73.0,126000,1726,1978,2/4,ei,,oma,
+872,Vehmainen,"3h,k,wc,ph,s,2x...",rt,75.0,191000,2547,2003,1/1,ei,tyyd.,vuokra,E2018
+873,Halkoniemi,3h+kt+s,kt,71.0,327000,4606,2019,1/2,ei,hyvä,vuokra,B2018
+874,Annala,"3h,k,vh,kph,s,l...",kt,80.0,98000,1225,1985,2/3,ei,hyvä,oma,E2018
+875,Kaleva,3h+k+s+vh+p,kt,74.5,294000,3946,2017,4/6,on,hyvä,vuokra,C2013
+876,Villilä,"3h,k,s,kph,eril...",rt,79.0,310000,3924,2005,1/1,ei,hyvä,oma,D2007
+877,Tammela,"3h, kt, p",kt,52.0,290000,5577,2024,5/8,on,,vuokra,B2018
+878,Amuri,3h+k+s,kt,69.0,212000,3072,1988,2/7,on,,oma,
+879,Peltolammi,"3h, k",kt,70.5,129000,1830,1971,7/7,on,hyvä,vuokra,F2013
+880,Haapalinna,3h+k+s,kt,74.0,120000,1622,1983,1/3,on,tyyd.,oma,E2018
+881,Saukonmäki,"3h, k, vh, las. p",kt,78.0,226000,2897,1967,1/7,on,,vuokra,D2018
+882,Koivistonkylä,3h+k+s+th,rt,85.0,223500,2629,1984,1/2,ei,hyvä,oma,
+883,Ranta-tampella,"3h, kt, kph/s, ...",kt,89.5,530000,5922,2019,3/9,on,hyvä,vuokra,C2013
+884,Hallila,"3h, k, s, khh, wc",rt,82.0,238000,2902,1997,1/1,ei,,vuokra,D2013
+885,Tasanne,3h+k+kph+s+eril...,rt,77.0,173000,2247,1983,1/1,ei,,oma,E2018
+886,Hämeenpuisto,"3h, halli, k, k...",kt,85.4,311000,3642,1934,3/6,on,hyvä,oma,E2018
+887,Lukonmäki,3h+k+kph+s+et+v...,kt,73.0,145000,1986,1991,2/3,ei,,oma,E2013
+888,Rantaperkiö,"3h,k,kph,s,vh,w...",kt,75.5,250000,3311,2006,3/4,on,hyvä,vuokra,F2013
+889,Ranta-tampella,"3h,kt,s",kt,109.0,827000,7587,2019,5/8,on,,oma,C2013
+890,Tampella,3h+k+s,kt,78.0,312000,4000,1987,2/6,on,hyvä,oma,E2013
+891,Koivistonkylä,"3h, kt, s",kt,65.0,260000,4000,2023,5/5,on,hyvä,vuokra,A2018
+892,Hirvikallio,3-4 h+k+kph+s+w...,rt,84.0,309000,3679,2015,1/1,ei,hyvä,vuokra,C2013
+893,Pohtola,3h + k + s + p,rt,89.0,270000,3034,1987,1/2,ei,,oma,C2018
+894,Korkinmäki,3h+k+s,kt,66.5,188000,2827,1994,1/2,ei,,oma,F2013
+895,Amuri,3h+k+kh+p+vh,kt,72.0,280000,3889,1955,4/6,on,,oma,G2013
+896,Peltolammi,Maalämp...,kt,68.0,64500,949,1968,2/3,ei,tyyd.,vuokra,B2013
+897,Atala,"2 mh, keitti...",rt,64.5,176000,2729,1990,1/1,ei,hyvä,oma,
+898,Koivistonkylä,"3h, kt, s",kt,65.0,256000,3938,2023,4/5,on,hyvä,vuokra,A2018
+899,Pyynikki,3h+k+kph+s+eril...,kt,72.0,260000,3611,1985,3/4,on,hyvä,oma,F2013
+900,Hervanta,"3 h , k, s, p",kt,73.0,143000,1959,1989,4/6,on,hyvä,oma,F2013
+901,Linnainmaa,3h+kt+s+kph+vh+...,kt,69.0,259401,3759,2015,5/5,on,hyvä,oma,C2013
+902,Atala,"3h, k, s, parvi...",rt,74.5,237000,3181,2000,-1/2,ei,hyvä,oma,
+903,Tasanne,"3h,k/rt,s,kph/k...",rt,86.5,186000,2150,1980,1/1,ei,hyvä,oma,D2018
+904,Finninmäki,"3-4h, k, s, ph,...",rt,95.5,224000,2346,1978,1/1,ei,hyvä,oma,D
+905,Muotiala,3h+ k+ et+vh+kp...,rt,83.0,278000,3349,2005,1/2,ei,hyvä,vuokra,D2013
+906,Onkiniemi,"3h,k,s",kt,81.0,302000,3728,1983,3/5,on,,oma,D2018
+907,Tasanne,3h+k+takkahuone+s,rt,86.0,250000,2907,1990,1/3,ei,,vuokra,D2018
+908,Haukiluoma,"3h,k,kph,wc,vh,...",rt,82.0,170400,2078,1986,1/1,ei,hyvä,vuokra,
+909,Lentävänniemi,"3h, k, kph/kht,...",rt,83.0,189000,2277,1980,1/1,ei,hyvä,oma,E2013
+910,Atala,"3h,k,kph,wc,s,v...",rt,75.0,213000,2840,1992,1/1,ei,,oma,
+911,Hervanta,"3 h, kt, s, p",kt,78.0,218900,2806,2013,4/5,on,hyvä,vuokra,C2013
+912,Kalkku,"3 h, k, s, p",kt,80.0,119000,1488,1977,4/6,on,hyvä,oma,G2013
+913,Rahola,"3h, k, vh, kh, ...",kt,74.0,175000,2365,2014,4/5,on,hyvä,vuokra,B2018
+914,Lukonmäki,3h+k+s+kph+vh+e...,kt,75.5,147000,1947,1991,3/3,ei,hyvä,oma,F2018
+915,Linnainmaa,"3h, k, s, las. p",kt,77.0,180000,2338,2002,2/4,on,,vuokra,E2018
+916,Härmälänranta,"3h,k,s",kt,64.0,229000,3578,2011,5/5,on,hyvä,oma,C2013
+917,Tammela,3h+k+et+s+kph+v...,kt,76.0,273000,3592,1984,4/6,on,hyvä,oma,D2018
+918,Kaleva,3h+k+kph+p,kt,75.0,250000,3333,1951,2/3,ei,,vuokra,
+919,Lentävänniemi,"3h,k,kph/wc,vh,...",kt,76.0,165000,2171,1977,2/6,on,,oma,C2013
+920,Kaleva,3h+k+kph/wc+p,kt,72.0,218000,3028,1958,,on,,vuokra,G2013
+921,Lukonmäki,"3h, k, s",rt,82.5,151000,1830,1978,1/2,ei,tyyd.,oma,D2007
+922,Lentävänniemi,"3-4h, k, kph, e...",kt,101.0,178000,1762,1975,8/8,on,tyyd.,oma,
+923,Annala,5h+k+kph+s+khh+...,rt,102.0,267000,2618,2003,1/2,ei,,vuokra,D2018
+924,Kauppi,4h+k+s,kt,94.0,537000,5713,2020,2/6,on,,vuokra,B2018
+925,Olkahinen,4h+k+kph/s+wc+2...,rt,101.0,207000,2050,1987,1/2,ei,,vuokra,
+926,Härmälä,"3mh, oh, k, wc,...",ok,128.0,210000,1641,1929,1/3,ei,tyyd.,vuokra,E2018
+927,Tesoma,4h+k,kt,79.0,110000,1392,1967,2/3,ei,hyvä,vuokra,C2018
+928,Keskusta,"4h,k,kph, erill...",kt,82.0,385000,4695,1962,7/8,on,,oma,D2018
+929,Vuores,"4-5h, kt, 2 x k...",rt,110.5,395000,3575,2023,-1/3,ei,hyvä,vuokra,B2018
+930,Hervanta,"4h,k,s",rt,97.5,263000,2697,2006,2/2,ei,hyvä,vuokra,C2018
+931,Leinola,4h + k + th + k...,ok,131.0,384000,2931,1994,1/1,ei,hyvä,vuokra,B2018
+932,Holvasti,"6h,k,s",ok,144.0,300000,2083,1994,,ei,tyyd.,vuokra,D2018
+933,Amuri,"4h,k,aula,kph/wc,p",kt,89.0,275000,3090,1952,6/6,on,hyvä,vuokra,F2013
+934,Hervanta,"5h, k, kk, 2 x ...",kt,130.5,150000,1149,1979,2/5,on,tyyd.,oma,D2018
+935,Koivistonkylä,"4h, k, s, ph/wc...",rt,98.5,230000,2335,1988,1/1,ei,hyvä,oma,D2018
+936,Ranta-tampella,4h+k+wc+kph/s+v...,kt,88.0,535000,6080,2021,2/9,on,hyvä,oma,A2018
+937,Hervanta,4h + k + s + kp...,kt,93.0,160000,1720,1986,4/5,on,hyvä,oma,D2018
+938,Onkiniemi,"4 h, k, s, kph,...",kt,94.5,273000,2889,1982,1/3,ei,tyyd.,oma,D2018
+939,Tesoma,"4h, k, kph/kodi...",kt,93.0,130000,1398,1966,3/3,ei,hyvä,vuokra,C2018
+940,Leinola,4h+k,rt,97.0,389000,4010,2022,1/1,ei,hyvä,oma,
+941,Keskusta,4h+k+vh+kph+s+e...,kt,96.0,345000,3594,1963,5/5,on,,oma,
+942,Viiala,"4h, k, s, varas...",rt,82.0,335000,4085,2021,1/2,ei,,oma,A2018
+943,Viinikka,"4h, k, kph, s, ...",rt,100.0,240000,2400,1937,-1/4,ei,tyyd.,vuokra,
+944,Härmälä,"4 h, k, ph/wc +...",ok,93.0,96000,1032,1937,2/2,ei,huono,vuokra,
+945,Niemenranta,"4h, k, kph, s, ...",rt,86.0,367900,4278,2017,1/1,ei,hyvä,vuokra,C2013
+946,Kaleva,4h+k,kt,72.0,233000,3236,1957,1/2,ei,,vuokra,D2018
+947,Annisto,"Oh, k, 3 mh, kh...",rt,105.0,400000,3810,2022,1/1,ei,hyvä,oma,A2018
+948,Peltolammi,"5h, k, khh, kph...",rt,105.5,189000,1791,1990,-1/2,ei,tyyd.,vuokra,D2018
+949,Risso,"6h, avok, sauna...",ok,218.5,548000,2508,2014,-1/1,ei,hyvä,vuokra,A2018
+950,Ikuri,5h+k+s,rt,113.0,189000,1673,1989,1/1,ei,tyyd.,vuokra,
+951,Viiala,4h+k+s+wc+kph+p...,kt,93.5,200000,2139,1988,2/3,ei,tyyd.,oma,D2018
+952,Hirvikallio,"4h, k, kph, khh...",rt,114.5,300000,2620,2011,-1/2,ei,hyvä,vuokra,B2018
+953,Annala,4h + k + kph/sa...,rt,98.0,172000,1755,1979,1/2,ei,,oma,
+954,Linnainmaa,"4h, k, sauna/kp...",rt,98.0,217500,2219,1979,2/2,ei,hyvä,oma,
+955,Leinola,4h+k+vh+khh+kph...,ok,128.0,392000,3063,1978,,ei,hyvä,oma,A2018
+956,Vehmainen,"Oh, k, 3-4mh, p...",ok,140.0,230000,1643,1930,-1/3,ei,hyvä,oma,B2018
+957,Leinola,"5h,k,kph,s,vara...",ok,230.0,325000,1413,1985,1/2,ei,,oma,E2018
+958,Atala,"4h, k, kph, s, wc",rt,84.0,225000,2679,1984,2/2,ei,hyvä,oma,D2018
+959,Annisto,"Oh, k, 3 mh, kh...",rt,105.0,400000,3810,2022,1/1,ei,hyvä,oma,A2018
+960,Lentävänniemi,"4h, k, kph, eri...",kt,88.5,170000,1921,1976,1/6,on,hyvä,oma,D2018
+961,Amuri,"3-4h, k, kph/s,...",kt,120.5,515000,4274,1972,9/9,on,hyvä,oma,G2013
+962,Kaleva,"5h, k, kph, 2 x vh",kt,79.0,260000,3291,1958,2/4,on,hyvä,vuokra,E2018
+963,Linnainmaa,"4h,k,khh,erilli...",rt,82.0,178000,2171,1988,1/1,ei,,vuokra,E2013
+964,Keskusta,5h+k+s,kt,112.5,320000,2844,1981,4/6,on,hyvä,oma,F2013
+965,Hatanpää,"4h, k, kph, s, ...",kt,99.5,325000,3266,2000,2/4,on,hyvä,vuokra,F2013
+966,Kaleva,4h+k+kph/wc+p,kt,74.0,235000,3176,1959,2/3,ei,hyvä,vuokra,D2013
+967,Tesoma,"4h, k, kph, wc,...",kt,76.0,100000,1316,1965,1/3,on,tyyd.,vuokra,F2013
+968,Onkiniemi,"4h, k, s",kt,91.0,220000,2418,1985,,on,,oma,E2018
+969,Leinola,4h+k+kph/s+khh+...,ok,105.0,255000,2429,1982,-1/1,ei,hyvä,vuokra,C2018
+970,Lintuhytti,"5h, k, kph/saun...",rt,111.0,335000,3018,2020,2/2,ei,hyvä,vuokra,B2018
+971,Takahuhti,4h+k+p,kt,83.0,173000,2084,1971,1/3,on,hyvä,oma,F2013
+972,Atala,"4h, k, s, kph, ...",rt,90.0,245000,2722,1990,1/1,ei,hyvä,oma,C2018
+973,Pappila,"4h, k, khh, kph...",rt,93.5,235000,2513,1985,1/1,ei,hyvä,oma,C2007
+974,Koivistonkylä,"5h, k, rt, aula...",ok,174.0,655000,3764,2014,,ei,hyvä,oma,B2018
+975,Pyynikki,3H+KT+1MT+PARVEKE,kt,149.5,750000,5017,2022,2/4,on,hyvä,oma,C2018
+976,Amuri,"4-5h, k, kph, s...",kt,117.0,345000,2949,1989,5/6,on,tyyd.,oma,C2018
+977,Leinola,4h+k+kph/s+khh+...,ok,109.0,320000,2936,2005,1/2,ei,,vuokra,
+978,Härmälä,5h+k+kph/s+2 wc...,rt,125.0,405000,3240,2020,1/2,ei,,vuokra,B2018
+979,Lentävänniemi,4h+k,kt,87.0,158000,1816,1973,2/3,ei,hyvä,oma,D2018
+980,Vuores,4h+k+s,rt,103.0,469000,4553,2016,1/1,ei,hyvä,vuokra,C2013
+981,Finninmäki,"4h, k, p, sauna...",rt,100.0,156000,1560,1978,-1/2,ei,hyvä,oma,D
+982,Peltolammi,"4h, k, kph/wc, ...",rt,129.0,155000,1202,1968,1/2,ei,,vuokra,
+983,Tesoma,4h+k+p,kt,93.0,137000,1473,1968,1/3,ei,hyvä,vuokra,G2013
+984,Vuores,4h + k + kph/s ...,rt,96.0,315000,3281,2019,1/2,ei,,vuokra,B2018
+985,Kaukajärvi,"4h, k, s, kph, ...",kt,91.0,239000,2626,2005,1/5,on,hyvä,oma,D2013
+986,Rantaperkiö,"4h, k, aula, er...",rt,100.0,315000,3150,2006,1/2,ei,hyvä,vuokra,C2018
+987,Muotiala,"4h, k, s, lasit...",rt,89.0,311000,3494,2013,-1/2,ei,hyvä,vuokra,C2013
+988,Hervanta,"4h, k, kph/wc, ...",kt,90.0,165000,1833,1976,5/8,on,hyvä,oma,E2018
+989,Hatanpää,"4h, k, er. wc, ...",kt,91.0,295000,3242,1997,2/4,on,hyvä,vuokra,F2013
+990,Takahuhti,"5(-6)h,k,2kph,w...",rt,149.0,225000,1510,1965,1/2,ei,,oma,E2013
+991,Lentävänniemi,4h+k,kt,89.5,111000,1240,1974,3/7,on,tyyd.,oma,D2018
+992,Koivistonkylä,"4h, k, s, kph, ...",rt,94.0,215000,2287,1970,1/1,ei,hyvä,oma,D2007
+993,Tasanne,"4mh, k, oh, khh...",ok,144.0,229000,1590,1987,-1/2,ei,tyyd.,vuokra,
+994,Atala,"4h, k, kph/s/kh...",rt,90.0,253000,2811,1992,1/1,ei,hyvä,oma,
+995,Järvensivu,"5h, k, kph, khh...",rt,165.0,570000,3455,2024,,ei,hyvä,vuokra,A2018
+996,Pyynikki,"4h, k, kph, s, ...",kt,94.5,320000,3386,1985,3/4,on,tyyd.,oma,F2013
+997,Tammela,"4h, k, kph, eri...",kt,85.0,280000,3294,1972,2/6,on,hyvä,oma,C2018
+998,Linnainmaa,"4h, k, sauna, p...",rt,98.0,173000,1765,1981,2/2,ei,tyyd.,oma,D2013
+999,Hallila,"5h, k, kphx3, k...",ok,138.0,278000,2014,1994,,ei,tyyd.,vuokra,D2018
+1000,Petsamo,"4h, k, kph/saun...",rt,135.0,336000,2489,1938,-1/2,ei,hyvä,vuokra,
+1001,Annala,"4h, k, kph / s,...",rt,81.0,242000,2988,2016,1/2,ei,hyvä,vuokra,C2013
+1002,Holvasti,"4h, k, s, ph, k...",rt,93.0,179000,1925,1995,2/2,ei,tyyd.,oma,D2018
+1003,Tasanne,4h+oh+k+th+kh+k...,ok,117.0,282000,2410,1980,-1/2,ei,hyvä,oma,C2018
+1004,Hakametsä,"5h, avok, kph, ...",rt,96.0,432000,4500,2019,-1/2,ei,hyvä,vuokra,C2013
+1005,Tesoma,4h+k+p,kt,86.0,106000,1233,1969,1/5,on,tyyd.,vuokra,D2018
+1006,Atala,"4h, k, kph / s,...",rt,93.0,227000,2441,1987,1/2,ei,hyvä,oma,C2018
+1007,Lentävänniemi,"4h, k, parveke...",kt,88.0,131000,1489,1974,1/3,ei,tyyd.,oma,E2013
+1008,Palokallio / peltolammi,4h+k+s,rt,98.0,238000,2429,1990,1/2,ei,hyvä,vuokra,D2018
+1009,Pyynikki,"4h, k, kph/s, w...",kt,100.0,596000,5960,2000,1/2,on,hyvä,oma,
+1010,Annala,"5h, k, khh, 2 w...",rt,115.0,250000,2174,1995,,ei,tyyd.,vuokra,D2018
+1011,Pyynikki,"5h, k, kph, eri...",kt,116.5,400000,3433,1969,2/6,on,hyvä,oma,D2018
+1012,Leinola,5h+k+2kph+s+pkh...,ok,148.0,325000,2196,1965,,ei,,oma,F2018
+1013,Rahola,"5h,k,2xwc,s,kph...",ok,155.0,286000,1845,1930,,ei,,oma,C2018
+1014,Tasanne,"5 h, k, rt/tkh,...",ok,179.5,275000,1532,1980,,ei,hyvä,oma,C2018
+1015,Pappila,3h+k+takkah+s+v...,rt,141.5,272000,1922,1975,2/2,ei,hyvä,oma,E2013
+1016,Huikas,"4h,k,wc,khh,2xk...",rt,116.0,380000,3276,1999,1/2,ei,hyvä,oma,E2013
+1017,Amuri,4h+k+kph+s+p,kt,85.5,260000,3041,1957,6/6,on,hyvä,vuokra,
+1018,Keskusta,Liikehuoneisto,kt,125.0,190000,1520,1957,1/7,on,tyyd.,oma,E2013
+1019,Rahola,"6h,k,takkah,khh...",ok,176.0,246000,1398,1949,-1/3,ei,hyvä,oma,D2018
+1020,Hämeenpuisto,"5h, k, s",kt,112.5,342000,3040,1981,1/3,on,hyvä,oma,D2018
+1021,Kaarila,"4mh, oh, k, kph...",rt,125.0,365000,2920,2004,1/2,ei,hyvä,oma,D2013
+1022,Korkinmäki,"5h, k, psh, s, ...",ok,120.0,199000,1658,1976,-1/2,ei,tyyd.,oma,
+1023,Leinola,"5h, k, kph, s, ...",ok,139.0,590000,4245,2019,-1/1,ei,hyvä,oma,B2018
+1024,Korkinmäki,"4-6h, k, s, ph,...",ok,97.0,220000,2268,1963,-1/2,ei,tyyd.,oma,E2018
+1025,Holvasti,"4mh, oh, k, kyl...",ok,169.0,354000,2095,1994,1/1,ei,hyvä,vuokra,B2018
+1026,Annala,4h+k+s,rt,92.5,211500,2286,1994,2/2,ei,hyvä,vuokra,D2013
+1027,Koivistonkylä,4h+k+et+kuisti+...,ok,72.0,252000,3500,1928,1/3,ei,hyvä,oma,
+1028,Holvasti,oh+3mh+k+kph+s+...,rt,91.0,250000,2747,1995,1/1,ei,hyvä,vuokra,
+1029,Hervanta,"4h, k, kph, s, ...",kt,92.0,151000,1641,1990,3/5,on,hyvä,oma,E2013
+1030,Tammela,4h+k+kph+wc+vh+p,kt,93.0,260000,2796,1970,7/7,on,hyvä,oma,C2018
+1031,Korkinmäki,"5h, k, s, pesu...",ok,119.0,205000,1723,1969,-1/1,ei,tyyd.,oma,E2018
+1032,Linnainmaa,4h+k+s,rt,109.0,255000,2339,1982,1/1,ei,hyvä,oma,D2018
+1033,Niemi,5h+k+2x wc+vera...,ok,117.5,330000,2809,1957,2/2,ei,hyvä,oma,C2018
+1034,Kumpula,5h + k + khh + ...,ok,119.0,470000,3950,2021,,ei,hyvä,oma,B2018
+1035,Levonmäki,"4h, k, wc, wc/k...",rt,92.0,235000,2554,2004,-1/2,ei,hyvä,vuokra,D2013
+1036,Tammela,"4h, k, lasitt.p...",kt,93.5,232000,2481,1972,5/7,on,tyyd.,oma,D2018
+1037,Reuharinniemi,"5h, k, th, kph,...",rt,132.0,300000,2273,1978,1/2,ei,hyvä,oma,D2013
+1038,Lukonmäki,4h + k + kph/sa...,rt,91.0,215000,2363,1978,1/2,ei,hyvä,oma,
+1039,Tasanne,5h+k+s,rt,93.0,310000,3333,2004,1/2,ei,,vuokra,D2018
+1040,Lintuhytti,"4h, k, kph / s,...",rt,95.0,311000,3274,2019,1/2,ei,hyvä,vuokra,B2018
+1041,Rahola,"5h,k,s,kph,aula...",ok,175.0,410000,2343,2003,,ei,hyvä,vuokra,B2018
+1042,Finninmäki,4h+k+kph/s+wc+2...,rt,100.0,222700,2227,1979,1/2,ei,,oma,
+1043,Kaarila,"5h, k, wc x 2, ...",rt,125.0,320000,2560,2004,2/2,ei,hyvä,oma,D2013
+1044,Vuores,4h+k+kph/s/wc+2...,kt,118.5,443000,3738,2020,6/6,on,hyvä,vuokra,B2018
+1045,Lukonmäki,"4 h, k, s, p, t...",rt,96.5,240000,2487,1986,2/2,ei,hyvä,oma,D2013
+1046,Järvensivu,"4h, k, rt, s, k...",kt,108.0,317000,2935,1968,2/2,ei,hyvä,oma,E2018
+1047,Palokallio / peltolammi,4h+k+s,rt,98.0,225000,2296,1990,2/2,ei,hyvä,vuokra,D2018
+1048,Rahola,"5h,k,aula,askar...",ok,112.0,185000,1652,1952,,ei,,vuokra,C2018
+1049,Koivistonkylä,"5mh, oh, k, 2wc...",ok,162.0,301000,1858,2002,-1/2,ei,hyvä,oma,D2018
+1050,Palokallio,4h+k+s+kph+2xvh...,rt,101.0,206000,2040,1973,1/1,ei,hyvä,vuokra,C2018
+1051,Tammerkoski,6h+k+kph+erilli...,kt,192.0,500000,2604,1902,2/4,on,,oma,F2013
+1052,Härmälä,4h+k+takkah.+te...,ok,110.0,265000,2409,1948,1/3,ei,hyvä,vuokra,D2018
+1053,Hervanta,"4h, k",kt,90.0,124000,1378,1976,1/8,on,hyvä,oma,E2018
+1054,Niemi,"7h, k, 2x kph, ...",ok,200.0,412000,2060,2010,-1/3,ei,hyvä,oma,
+1055,Hervanta,"4h,k, kph / s, ...",kt,92.0,153000,1663,1984,3/5,on,hyvä,oma,D2018
+1056,Kaleva,"4h, k, kph/wc, ...",kt,76.5,238000,3111,1960,4/6,on,tyyd.,vuokra,G2013
+1057,Hervanta,4h+k+kph/s+wc+l...,kt,90.0,140000,1556,1989,5/6,on,,oma,E2013
+1058,Ruotula,4/5h + k + kph/...,rt,155.0,247000,1594,1975,1/1,ei,hyvä,oma,
+1059,"Vuores, mäyränmäki",4h+k+kph/khh+s+...,rt,86.5,288062,3330,2013,1/1,ei,hyvä,vuokra,B2013
+1060,Hervanta,"4h,k",kt,94.0,133000,1415,1974,6/7,on,,oma,C2018
+1061,Vehmainen,4h+k+kh+s+vh+la...,rt,95.0,175000,1842,1979,1/2,ei,hyvä,oma,D2013
+1062,Ranta-kaarila,"4-5h, k, 2 x er...",rt,131.5,410000,3118,1976,-1/2,ei,hyvä,oma,D2018
+1063,Peltolammi,4h+k,kt,85.0,130000,1529,1966,1/3,ei,hyvä,vuokra,G2013
+1064,Olkahinen,"4h, k, erill.wc...",rt,101.5,275000,2709,1990,1/1,ei,hyvä,oma,E2018
+1065,Härmälänranta,"4h, k, kph/saun...",kt,100.5,502000,4995,2012,4/6,on,hyvä,oma,B2018
+1066,Lukonmäki,3-4h+k+et+takka...,rt,123.0,288000,2341,1990,1/2,ei,hyvä,oma,D2018
+1067,Veisu,"4h, k, s",rt,107.0,270000,2523,1982,1/1,ei,hyvä,oma,D2013
+1068,Tammela,"4h, k, kph/wc, ...",kt,86.5,265000,3064,1977,2/6,on,tyyd.,oma,E2013
+1069,Petsamo,"4h, k, psh, s, ...",rt,92.0,270000,2935,1936,-1/3,ei,hyvä,vuokra,E2018
+1070,Reuharinniemi,4h+k+s,rt,95.0,345000,3632,2001,1/2,ei,,oma,E2013
+1071,Kumpula,"5h,k,kph,s,khh,...",ok,156.0,440000,2821,2004,,ei,,oma,B2018
+1072,Kaleva,"4h, k, kph, lasp",kt,76.5,205000,2680,1960,1/6,on,tyyd.,vuokra,G2013
+1073,Hallila,"3 mh, k, rt, kp...",ok,106.0,470000,4434,2000,-1/2,ei,hyvä,oma,
+1074,Rahola,"4h, k, s",rt,95.0,278001,2926,1999,1/1,ei,,oma,E2013
+1075,Keskusta,"4h, k, wc, kph,...",kt,104.0,465000,4471,1963,3/8,on,hyvä,oma,F2013
+1076,Tampella,"5h, k, s",kt,140.0,1190000,8500,2004,4/4,on,,oma,D2013
+1077,Kaleva,"5h, k, 2 kph, v...",kt,118.0,385000,3263,1960,6/6,on,hyvä,vuokra,D2013
+1078,Härmälä,"4h, k, kph, s, ...",ok,120.0,170000,1417,1929,,ei,tyyd.,vuokra,F2018
+1079,Amuri,"4-5 h, k, wc, kph",kt,117.0,410000,3504,1963,,on,hyvä,oma,F2018
+1080,Pyynikki,4H+KT+S+TERASSI...,kt,127.0,650000,5118,2022,1/4,on,hyvä,oma,
+1081,Hämeenpuisto,"3-4 h, k, kh, e...",kt,99.0,405000,4091,1963,4/8,on,tyyd.,oma,D2018
+1082,Kumpula,"4h, k, wc, 2xkp...",ok,98.0,176000,1796,1960,,ei,,oma,D2018
+1083,Rantaperkiö,4h+k+th/vh+2xvh...,rt,86.0,200000,2326,1957,3/3,ei,tyyd.,vuokra,
+1084,Multisilta,"4h, k, wc/kph,s...",kt,88.5,118500,1339,1972,3/5,on,hyvä,vuokra,E2018
+1085,Hervanta,"4h, k, p, kph, ...",kt,93.5,107000,1144,1978,6/6,on,hyvä,oma,D2018
+1086,Hervantajärvi,"5h, kt, kph, s, p",kt,103.0,364000,3534,2023,3/4,on,hyvä,vuokra,B2018
+1087,Hallila,"5h, k, kph, khh...",ok,118.0,238000,2017,1991,,ei,tyyd.,vuokra,
+1088,Tammela,4h+k+kph+s+2xwc...,kt,126.0,420000,3333,1957,5/6,on,tyyd.,oma,F2013
+1089,Niemi,"Oh, 3mh, ruokai...",ok,141.0,270000,1915,1969,-1/2,ei,hyvä,oma,C2018
+1090,Vuores,"5h, k, 2kph, kh...",rt,113.0,364000,3221,2015,-1/2,ei,hyvä,vuokra,C2013
+1091,Levonmäki,"8h,k,s",rt,138.0,335000,2428,1998,1/1,ei,hyvä,vuokra,C2018
+1092,Vuores,"4h, k, khh, kph...",rt,95.0,320000,3368,2016,1/1,ei,hyvä,vuokra,C2013
+1093,Vehmainen,5h+k+työh+...,ok,134.0,557500,4160,2017,,ei,hyvä,oma,B2013
+1094,Vehmainen,"Oh, k, rt, 5x m...",ok,183.0,701000,3831,2008,1/2,ei,hyvä,oma,C2018
+1095,Levonmäki,"4h, k, vh, eril...",rt,89.5,224343,2507,1999,1/1,ei,hyvä,vuokra,E2013
+1096,Härmälä,"4h, k, veranta,...",ok,90.0,275000,3056,1948,1/2,ei,hyvä,vuokra,E2018
+1097,Kaukajärvi,"4 h, k, kh",kt,91.0,176000,1934,1965,1/3,ei,hyvä,oma,E2013
+1098,Ikuri,4 h+k+s+wc+kph+...,rt,95.0,298000,3137,2012,1/1,ei,hyvä,vuokra,
+1099,Keskusta,"5h, k, eril wc,...",kt,115.0,430000,3739,1962,3/8,on,hyvä,oma,G2013
+1100,Kaleva,4h+k+kph/wc+2 x...,kt,82.0,242000,2951,1951,6/9,on,,vuokra,F2013
+1101,Finninmäki,4h+k,rt,112.0,255000,2277,1981,1/2,ei,hyvä,oma,D2013
+1102,Vehmainen,4h+k+ saunaos.,rt,122.0,300000,2459,1985,1/2,ei,,oma,E2013
+1103,Risso,5h+k+et+2+wc+kh...,ok,135.0,446000,3304,2014,,ei,hyvä,vuokra,A2018
+1104,Risso,,ok,148.0,450000,3041,2014,2/2,ei,hyvä,vuokra,C2013
+1105,Holvasti,"5h, k, rt, s, k...",ok,119.0,348000,2924,1993,,ei,hyvä,vuokra,D2018
+1106,Tohloppi,"3-4h, k, erill ...",rt,100.0,259000,2590,2010,2/2,ei,hyvä,vuokra,E2013
+1107,Hämeenpuisto,"4h, k",kt,109.2,387500,3549,1934,3/6,on,tyyd.,oma,E2018
+1108,Kaarila,4h+k+autot+saun...,rt,131.0,327000,2496,1966,1/1,ei,,oma,C2013
+1109,Keskusta,"4h, k, kph, vh, p",kt,84.0,305000,3631,1957,5/5,on,tyyd.,oma,F2013
+1110,Pappila,"3-4h, k, kph,s ...",rt,142.0,233000,1641,1975,1/2,ei,,oma,E2013
+1111,Härmälä,4h+kt+kph+wc+pa...,rt,90.0,335000,3722,2020,1/2,ei,hyvä,vuokra,B2018
+1112,Pyynikki,4h+k+kph+s+wc+vh+p,kt,94.0,450000,4787,2010,5/7,on,hyvä,oma,D2013
+1113,Hervantajärvi,"4h, k, kph, s, ...",rt,97.0,373000,3845,2024,-1/2,on,hyvä,vuokra,A2018
+1114,Pyynikki,"4h, k, kph/s, w...",kt,100.0,595000,5950,2000,1/2,on,hyvä,oma,
+1115,Leinola,"5h, k, rt, s, p...",ok,103.0,282000,2738,1982,,ei,hyvä,vuokra,C2018
+1116,Linnainmaa,4h+k+s+wc+vh+la...,kt,86.0,186000,2163,2005,3/4,on,hyvä,vuokra,E2013
+1117,Hervantajärvi,"4h, k, kph, s, ...",rt,97.0,372600,3841,2024,-1/2,on,hyvä,vuokra,A2018
+1118,Takahuhti,"5h,avokeitti...",rt,104.0,475000,4567,2020,1/2,ei,hyvä,vuokra,A2018
+1119,Leinola,"4h, k, s, vh, e...",rt,82.0,188000,2293,1990,1/1,ei,,oma,
+1120,Uusikylä,"4h,th,rh,khht,2...",rt,310.0,424000,1368,1976,1/1,ei,hyvä,oma,
+1121,Järvensivu,"5h, k, kph, khh...",rt,165.0,575000,3485,2023,,ei,hyvä,vuokra,A2018
+1122,Lintuviita,4h+k+s,rt,102.5,225000,2195,1979,2/2,ei,hyvä,oma,D2018
+1123,Pyynikki,3H+3MT/TT+KT+S+...,kt,194.5,850000,4370,2022,2/4,on,hyvä,oma,C2018
+1124,Hervanta,"4h, k, kph, s, ...",kt,85.5,228000,2667,2013,6/6,on,hyvä,vuokra,C2013
+1125,Korkinmäki,"4h, k, s, kph/w...",rt,86.0,268000,3116,2002,-1/2,ei,hyvä,oma,E2013
+1126,Ruotula,"3h,k,tkh,s,kph,...",rt,147.0,140000,952,1965,1/2,ei,,oma,C2018
+1127,Tammela,"4h,k,erill wc, ...",kt,86.0,375000,4360,1941,4/6,on,,vuokra,F2013
+1128,Hervanta,"4h, k, p, kph, ...",kt,93.5,97000,1037,1978,4/6,on,hyvä,oma,D2018
+1129,Hervanta,"4h, k",kt,90.0,125000,1389,1973,1/5,on,,oma,F2013
+1130,Hallila,4h+k+s,rt,92.0,228000,2478,1992,2/2,ei,tyyd.,vuokra,D2018
+1131,Koivistonkylä,"5h, k, 2kph, s,...",ok,160.0,361000,2256,1936,-1/2,ei,hyvä,oma,
+1132,Atala,4h+k+s+ak,rt,91.0,259000,2846,1994,1/1,ei,hyvä,oma,E2013
+1133,Vehmainen,"4h, k, wc, kph/...",ok,157.5,200000,1270,1972,,ei,huono,oma,E2018
+1134,Pispala,"4h, k, kph/wc, ...",kt,65.0,310000,4769,1927,2/2,ei,hyvä,oma,
+1135,Finninmäki,4h+k+kph/s+eril...,rt,93.0,224000,2409,1983,1/2,ei,,oma,E2018
+1136,Hervanta,"4h, k, s, kph, ...",kt,103.5,180000,1739,1985,7/8,on,tyyd.,oma,E2013
+1137,Ruotula,"5-6h, k, saunao...",rt,130.5,360000,2759,1990,-1/2,ei,hyvä,oma,
+1138,Hervanta,"4h, k, kph, s, ...",kt,96.0,114000,1188,1983,6/6,on,huono,oma,B2018
+1139,Ikuri,4h+k+kph+s+vh,rt,83.0,189000,2277,1973,,ei,,oma,D2018
+1140,Lentävänniemi,5h+k+s,rt,147.0,330000,2245,1979,1/1,ei,hyvä,oma,C2018
+1141,Holvasti,"Oh, 3x mh, k, r...",ok,104.0,235000,2260,1967,-1/1,ei,hyvä,oma,B2018
+1142,Kaukajärvi,6h+k+s,rt,161.5,320000,1981,1999,1/2,ei,hyvä,oma,D2013
+1143,Kaarila,"4(-5)h,k,2kph,2...",rt,110.0,295000,2682,2003,1/2,ei,hyvä,oma,E2018
